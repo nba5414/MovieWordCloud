@@ -1,0 +1,2746 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml" prefix="fb: http://www.facebook.com/2008/fbml og: http://opengraphprotocol.org/schema/">
+    <head prefix="og: http://ogp.me/ns# flixstertomatoes: http://ogp.me/ns/apps/flixstertomatoes#">
+        
+            
+            
+            
+            
+                <script
+                    charset="UTF-8"
+                    crossorigin="anonymous"
+                    data-domain-script="7e979733-6841-4fce-9182-515fac69187f"
+                    integrity="sha384-WEHwEli88wqOiQd913F1utFZiwisa8XhCkbjLnbKEpFa/WbFcPKeGg7h4fdsv0Z/"
+                    src="https://cdn.cookielaw.org/consent/7e979733-6841-4fce-9182-515fac69187f/otSDKStub.js"
+                    type="text/javascript"
+                >
+                </script>
+                <script type="text/javascript">
+                    function OptanonWrapper() { }
+                </script>
+            
+
+            
+                <script
+                    ccpa-opt-out-ids="dummy"
+                    ccpa-opt-out-geo="US"
+                    ccpa-opt-out-lspa="false"
+                    charset="UTF-8"
+                    src="https://cdn.cookielaw.org/opt-out/otCCPAiab.js"
+                    type="text/javascript"
+                >
+                </script>
+            
+            
+        
+
+        
+            
+            <script src="/assets/pizza-pie/javascripts/bundles/roma/rt-common.js?single"></script>
+            
+        
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Fast X - Movie Reviews - Rotten Tomatoes</title>
+        <meta name="description" content="Rotten Tomatoes, home of the Tomatometer, is the most trusted measurement of quality for Movies & TV. The definitive site for Reviews, Trailers, Showtimes, and Tickets">
+
+        
+            <link rel="canonical" href="/m/fast_x/reviews">
+        
+
+        
+            
+        
+
+        <link rel="shortcut icon" sizes="76x76" type="image/x-icon" href="https://www.rottentomatoes.com/assets/pizza-pie/images/favicon.ico" />
+        
+
+        
+            <meta property="fb:app_id" content="">
+            <meta property="og:site_name" content="Rotten Tomatoes">
+            <meta property="og:title" content="Fast X - Movie Reviews">
+            <meta property="og:description" content="Rotten Tomatoes, home of the Tomatometer, is the most trusted measurement of quality for Movies & TV. The definitive site for Reviews, Trailers, Showtimes, and Tickets">
+            <meta property="og:type" content="video.movie">
+            <meta property="og:url" content="/m/fast_x/reviews">
+            <meta property="og:image" content="https://resizing.flixster.com/MQwHilOB18wHj3daf6qJceM3yic=/206x305/v2/https://resizing.flixster.com/8ZFc4VKwZN8NGV3ZqhCIFCHekxM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJlNDAyYWUzLWEwZTUtNDVlNy04MDliLTRmZWIzNDMzMzJmYS5qcGc=">
+            <meta property="og:locale" content="en_US">
+        
+
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content="https://resizing.flixster.com/MQwHilOB18wHj3daf6qJceM3yic=/206x305/v2/https://resizing.flixster.com/8ZFc4VKwZN8NGV3ZqhCIFCHekxM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJlNDAyYWUzLWEwZTUtNDVlNy04MDliLTRmZWIzNDMzMzJmYS5qcGc=">
+        <meta name="twitter:title" content="Fast X - Movie Reviews">
+        <meta name="twitter:text:title" content="Fast X - Movie Reviews">
+        <meta name="twitter:description" content="Rotten Tomatoes, home of the Tomatometer, is the most trusted measurement of quality for Movies & TV. The definitive site for Reviews, Trailers, Showtimes, and Tickets">
+        <meta name="twitter:site" content="@rottentomatoes">
+
+        <link rel="manifest" href="https://www.rottentomatoes.com/assets/pizza-pie/manifest/manifest.json" />
+
+        <link rel="apple-touch-icon" href="https://www.rottentomatoes.com/assets/pizza-pie/head-assets/images/apple-touch-icon-60.jpg" />
+        <link rel="apple-touch-icon" sizes="152x152" href="https://www.rottentomatoes.com/assets/pizza-pie/head-assets/images/apple-touch-icon-152.jpg" />
+        <link rel="apple-touch-icon" sizes="167x167" href="https://www.rottentomatoes.com/assets/pizza-pie/head-assets/images/apple-touch-icon-167.jpg" />
+        <link rel="apple-touch-icon" sizes="180x180" href="https://www.rottentomatoes.com/assets/pizza-pie/head-assets/images/apple-touch-icon-180.jpg" />
+
+        <!-- JSON+LD -->
+        
+
+        
+        
+
+        
+        <meta name="google-site-verification" content="VPPXtECgUUeuATBacnqnCm4ydGO99reF-xgNklSbNbc" />
+
+        
+        <meta name="msvalidate.01" content="034F16304017CA7DCF45D43850915323" />
+        <meta name="theme-color" content="#FA320A">
+
+        <!-- DNS prefetch -->
+        <meta http-equiv="x-dns-prefetch-control" content="on">
+        
+            <link rel="dns-prefetch" href="//www.rottentomatoes.com" />
+        
+        
+            <link rel="preconnect" href="//www.rottentomatoes.com" />
+        
+
+        
+        
+
+        
+
+        
+<!-- BEGIN: critical-->
+<style id="critical-path">*,:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}a,aside,body,button,div,footer,h2,h3,html,img,li,nav,p,section,span,sup,ul{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}aside,footer,nav,section{display:block}body{line-height:1}li,ul{list-style:none}a{text-decoration:none}img{vertical-align:middle}h2,h3{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}button{background-color:transparent}@font-face{font-family:rt-icon;src:url(/assets/pizza-pie/stylesheets/global_DEPRECATED/fonts/rt-icon.eot);src:url(/assets/pizza-pie/stylesheets/global_DEPRECATED/fonts/rt-icon.eot) format("embedded-opentype"),url(/assets/pizza-pie/stylesheets/global_DEPRECATED/fonts/rt-icon.woff2) format("woff2"),url(/assets/pizza-pie/stylesheets/global_DEPRECATED/fonts/rt-icon.woff) format("woff"),url(/assets/pizza-pie/stylesheets/global_DEPRECATED/fonts/rt-icon.ttf) format("truetype"),url(/assets/pizza-pie/stylesheets/global_DEPRECATED/fonts/rt-icon) format("svg");font-weight:400;font-style:normal}:root{--fontFranklinGothic:"Franklin Gothic",-apple-system,BlinkMacSystemFont,"PT Sans",Arial,Sans-Serif;--fontNeusa:"Neusa","Impact","Helvetica Neue",Arial,Sans-Serif;--fontMonospace:"Courier New",Courier,monospace;--fontRtIcon:"rt-icon"}:root{--red:#FA320A;--redRGB:250,50,10;--redDark1:#A33E2A;--blue:#3976DC;--blueHover:#2A62C0;--gray:#757A84;--grayLight1:#F3F3F3;--grayLight2:#E9E9EA;--grayLight3:#DCDCE6;--grayLight4:#BCBDBE;--grayDark1:#505257;--grayDark2:#2A2C32;--grayDark3:#171C20;--orange:#FF7300;--yellow:#FFB600;--white:#FFFFFF;--black:#000000;--blackRGB:0,0,0;--yellowLegacy:#FFE400;--blueLightLegacy:#EBF3FE}:root{--borderRadius:6px}.rt-icon:before{display:inline-block;font-family:rt-icon;font-style:normal;font-variant:normal;font-weight:400;line-height:1em;margin-left:.2em;margin-right:.2em;position:relative;text-align:center;text-decoration:inherit;text-transform:none;width:1em;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased}.rt-icon__mail:before{content:"\f11b"}.leaderboard_wrapper{height:50px;display:flex;justify-content:center;width:100%}@media (min-width:768px){.leaderboard_wrapper{padding:5px 0 5px;height:100px;min-height:100px}.sleaderboard_wrapper{display:flex;justify-content:center;align-items:center;background-color:var(--white);padding:10px;text-align:center}}html{--webkit-font-smoothing:antialiased;--moz-osx-font-smoothing:grayscale;font-size:1rem}body{background-color:var(--grayLight1);color:var(--grayDark2);font-family:var(--fontFranklinGothic);font-size:1rem;line-height:1.5;letter-spacing:.016em}p{font-family:var(--fontFranklinGothic);font-size:1rem;font-weight:400;line-height:1.25;margin-bottom:1.25rem}section{margin-bottom:2.5rem}.button,button{display:inline-block;height:40px;font-family:var(--fontFranklinGothic);font-size:.875rem;font-weight:500;line-height:2.85;padding:0 16px;text-align:center;text-overflow:ellipsis;text-transform:uppercase;vertical-align:middle;-webkit-line-clamp:2;white-space:nowrap;word-wrap:break-word;border:1px transparent;border-radius:4px;background-color:var(--blue);color:var(--white)}.button--link{height:auto;background-color:transparent;color:var(--blue);font-size:1rem;line-height:inherit;padding:0}.hide{display:none!important}.mobile-visible{display:block}.mobile-hidden{display:none}@media (min-width:768px){.mobile-hidden{display:block}.mobile-visible{display:none}}.h2,h2{font-family:var(--fontNeusa);font-weight:500;font-size:1.25rem;letter-spacing:0;line-height:1.2;padding-left:9px;text-transform:uppercase;margin-bottom:1em}.h2:before,h2:before{position:absolute;content:"";height:1.1em;border-left:3px solid var(--red);margin:-1px 0 0 -9px}.h3,h3{font-family:var(--fontFranklinGothic);font-weight:500;font-size:1.25rem;line-height:1.2;letter-spacing:0;margin-bottom:1.25rem}.h4{font-family:var(--fontFranklinGothic);font-weight:600;line-height:1.17;letter-spacing:.01em}.h4{font-size:1.125rem;margin-bottom:1rem}img{max-width:100%}a{background-color:transparent;color:var(--blue);fill:var(--grayDark2);font-family:var(--fontFranklinGothic);font-size:inherit;font-weight:400;line-height:inherit;letter-spacing:inherit;text-decoration:none}sup{vertical-align:super;font-size:.6rem}ul{padding:5px 0}ul ul{margin-top:0;margin-left:12px}li{margin-bottom:.4em;text-align:-webkit-match-parent}.list-inline{list-style:none}.list-inline>li{display:inline-block}.list-inline--separator>li{display:inline-block}.list-inline--separator>li:after{content:"|";display:inline-block;color:var(--grayDark1);margin-left:10px;margin-right:10px}.list-inline--separator>li:last-child:after{content:none}.rt-layout__body{line-height:1.25}.rt-layout__content{background-color:var(--white);overflow-x:hidden;padding-left:15px;padding-right:15px}.container{margin-right:auto;margin-left:auto}.layout{display:flex;justify-content:space-between}.layout__column{position:relative}.layout__column--main{flex:3;width:100%}.layout__column--sidebar{flex:1}.layout__column--sidebar-left{padding-right:0}@media (min-width:768px){.container{overflow-x:unset;width:1100px;padding-left:15px;padding-right:15px}.rt-layout__body{padding:0}.layout__column--sidebar-left{padding-right:25px}}[skeleton]{display:block;background-color:#eee;color:transparent}[skeleton] *{visibility:hidden}[skeleton=chip]{display:inline-block;border-radius:100px}[skeleton=panel]{border-radius:4px}[skeleton=transparent]{background-color:transparent}.unset{font-size:unset;font-weight:unset;line-height:unset;margin:unset;padding:unset;color:inherit}rt-header{height:55px}rt-header[skeleton]{display:block;background-color:var(--red)}rt-header .skip-link{clip:rect(1px,1px,1px,1px);height:1px;overflow:hidden;position:absolute;white-space:nowrap;width:1px}rt-header a{color:var(--grayDark2)}rt-header a[slot=logo] img{height:35px}rt-header li ul,rt-header ul{margin:0;padding:0}rt-header ul[slot=nav-links] a,rt-header ul[slot=nav-links] button{margin:0 15px;color:var(--white);font-family:var(--fontFranklinGothic);font-size:.875rem;font-weight:500;line-height:inherit}rt-header ul[slot=nav-links] li{margin-bottom:.4em}rt-header ul[slot=nav-links] .masthead-user-link{display:flex;align-items:center;color:var(--white);font-size:inherit;font-weight:500;margin-left:10px}rt-header ul[slot=nav-links] .masthead-user-link img{height:14px;margin-right:5px;vertical-align:text-bottom}rt-header ul[slot=nav-links] .masthead-user-link p{margin-bottom:0}rt-header ul[slot=nav-links] .masthead-user-link rt-icon{fill:var(--white)}rt-header ul[slot=nav-links] rt-header-user-info{position:absolute;top:30px;left:auto;right:0;z-index:103}rt-header ul[slot=nav-links] rt-header-user-info a{position:relative;margin:0;color:var(--grayDark2);font-size:1rem;font-weight:400;z-index:2}rt-header ul[slot=nav-links] rt-header-user-info .username{font-size:1rem;font-weight:500px;color:var(--grayDark2)}rt-header ul[slot=nav-links] rt-header-user-info .dropdown-link{color:var(--grayDark2);margin-bottom:.4em}rt-header ul[slot=nav-links] rt-header-user-info .rating-count-block,rt-header ul[slot=nav-links] rt-header-user-info .wts-count-block{font-size:.875rem;font-weight:400px;color:var(--gray)}rt-header ul[slot=nav-links] rt-header-user-info .wts-count-block rt-icon[icon=plus]{fill:var(--blue)}rt-header ul[slot=nav-links] rt-header-user-info .rating-count-block rt-icon[icon=star]{fill:var(--yellow)}rt-header rt-header-nav-item{padding:13px 15px;color:var(--white)}rt-header rt-header-nav-item>a[slot=link]{color:var(--white);font-family:var(--fontNeusa);letter-spacing:.9px;text-transform:uppercase;position:relative}rt-header rt-header-nav-item temporary-display{position:absolute;top:-20px;right:-15px}rt-header rt-header-nav-item temporary-display rt-badge{font-size:.75rem}rt-header rt-header-nav-item-dropdown[aria-expanded=false]{display:none}rt-header rt-header-nav-item-dropdown-list:last-child{margin-right:0}rt-header rt-header-nav-item-dropdown-list{margin-right:15px}rt-header rt-header-nav-item-dropdown-list ul{margin-bottom:15px}rt-header rt-header-nav-item-dropdown-list li{margin-bottom:.4em}rt-header rt-header-nav-item-dropdown-list a{display:flex;width:100%}rt-header rt-header-nav-item-dropdown-list a span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;width:215px}rt-header rt-header-nav-item-dropdown-list a.what-to-watch{align-items:center;gap:3px}rt-header rt-header-nav-item-dropdown-list p{display:flex}@media (min-width:768px){rt-header{height:100px}rt-header a[slot=logo]{margin:15px}rt-header a[slot=logo] img{height:50px}}search-algolia{flex:1;font-size:1rem;z-index:199;margin-left:15px}search-algolia[skeleton]{height:35px;border-radius:26px;margin-right:15px;width:100%}search-algolia-controls a,search-algolia-controls button,search-algolia-controls input{font-family:var(--fontFranklinGothic)}search-algolia-controls input{color:var(--white);border:1px solid var(--white)}search-algolia-controls a rt-icon,search-algolia-controls button rt-icon{fill:var(--white)}search-algolia-controls a{display:flex;width:fit-content;width:-moz-fit-content}search-algolia-controls button{display:flex;border-radius:0;background:0 0;height:auto;padding:0;line-height:0}search-algolia-controls button.search-clear{font-size:1.25rem}search-algolia-controls button.search-cancel{padding-right:15px;font-size:1rem}search-algolia-results-category{margin-bottom:40px;color:var(--grayDark2)}search-algolia-results-category[slot=none]{margin-bottom:0}search-algolia-results-category ul{padding:0}@media (min-width:768px){search-algolia{margin-right:15px}}bottom-nav{position:fixed;bottom:0;left:0;width:100%;height:84px;z-index:100}@media (min-width:768px){bottom-nav{display:none}}.trending-bar{background-color:rgba(var(--blackRGB),.6);color:var(--white);display:none;padding:4px 10px;font-size:.875rem;z-index:1;opacity:.9;position:relative;height:26px;margin-bottom:0}.trending-bar a{color:var(--white)}.trending-bar__header{color:var(--yellowLegacy);margin-bottom:0;padding-right:5px;white-space:nowrap;font-size:1rem;font-family:var(--fontNeusa);line-height:18px;letter-spacing:.055em;text-transform:uppercase}.trending-bar__list{display:flex;align-items:center;padding:0}.trending-bar__list li{margin-bottom:0}.trending-bar__link{margin-right:2px;padding:0 5px;font-weight:400;line-height:18px}.trending-list-wrap{display:flex;flex-wrap:nowrap;justify-content:space-between;align-items:flex-start}@media (min-width:768px){.trending-bar{display:block}}#trending_bar_ad{position:absolute;top:0;right:0}.auth-overlay__icon-button{display:flex;border:none;background:0 0;height:26px;font-size:1.625rem;padding:0;z-index:1}.auth-overlay__icon-button rt-icon{fill:var(--grayLight4)}.auth-overlay__icon-button--close{position:absolute;right:20px}.footer{background-color:var(--grayDark2);font-family:var(--fontFranklinGothic);font-size:.875rem;display:block;color:var(--white)}.footer__content-desktop-block{display:none}.footer__content-mobile-block{display:block;color:var(--white);font-size:.875rem;padding:15px 15px 69px;text-align:center;font-family:var(--fontFranklinGothic)}.footer__content-mobile-block a{font-size:.875rem}.footer__content-group-title{line-height:1.875rem}.footer__links-list{padding:0;margin-left:-5px;margin-bottom:30px}.footer__links-list-item{margin-bottom:0;padding:2px 5px;font-size:1rem}.footer__links-list-item a{color:var(--white);fill:var(--white);line-height:1.375rem}.footer__links-list-item a#ot-sdk-btn.ot-sdk-show-settings{color:var(--white);border:initial;height:initial;white-space:initial;padding:2px 5px;font-size:1rem;line-height:initial;background-color:initial}.footer__links-list-item a#ot-sdk-btn.ot-sdk-show-settings.mobile{font-size:.875rem}.footer__ccpa-icon{display:inline-block;width:30px;margin:0 0 2px 0}.footer__newsletter-block{display:block;margin:auto;width:100%}.footer__newsletter-icon{margin-right:9px}.footer__newsletter-btn{display:flex;justify-content:center;align-items:center;width:175px;margin:10px auto;font-weight:500;color:var(--white)}.footer__copyright{display:none}.footer__copyright .footer__links-list{font-size:.75rem}.footer__copyright a{font-size:1rem}.footer__copyright-legal{margin-bottom:0;font-size:1rem}.footer__copyright .footer__links-list{font-size:.75rem}@media (min-width:768px){.footer__content-desktop-block{display:flex;justify-content:space-between}.footer__content-mobile-block{display:none}.footer__content-group{padding:20px 0}.footer__content-group-title{margin-bottom:10px;font-size:1.125rem;text-transform:uppercase}.footer__newsletter-block{display:block;margin:0;text-align:center;width:250px}.footer__newsletter-copy{margin:10px 0;line-height:1.09rem}.footer__copyright{display:flex;flex-direction:column;align-items:center;padding-top:10px;padding-bottom:10px}.footer__copyright .version{color:var(--grayDark2);padding:0;font-size:.875rem}.footer__copyright .version:after{content:none;border-right:0;padding:0}.footer__copyright-legal{color:var(--gray);font-size:.875rem}}.review-nav-dropdown-toggle{padding:0 21px 0 25px;border:solid 1px var(--grayLight4);background:var(--white);font-size:.875rem;color:var(--grayDark2);margin-bottom:5px}.tabs{border-bottom:solid 1px #d8d8d8;margin:10px 0 30px;padding:0;position:relative}.tabs__item{display:inline-block;margin-bottom:0}.tabs__link{display:inline-block;font-family:var(--fontFranklinGothic);font-weight:400;font-size:1rem;font-weight:400;color:var(--grayDark2);padding:16px 20px}.tabs-underline{position:absolute;left:0;bottom:0;width:0;height:2px;border-radius:2px;background:#4472ca;margin-bottom:0}@media (min-width:768px){.reviews-info-container{display:flex;flex-direction:column;align-items:center;margin-bottom:30px}.reviews-info-container .info-section{margin-top:10px;display:flex;flex-direction:column;border-bottom:1px solid var(--grayLight1)}.reviews-info-container .info-section .sidebar-title{color:var(--black);font-weight:500;text-transform:uppercase}.reviews-info-container .info-section ul li{margin-bottom:.2rem}}.reviews-page-container .reviews-container h2{margin-top:20px}.reviews-page-container .reviews-container .no-review{font-weight:500}.reviews-page-container .reviews-container .prev-next-paging__wrapper{display:flex;justify-content:flex-end;padding-bottom:20px}.reviews-page-container .reviews-container .prev-next-paging__wrapper rt-button:nth-child(2){margin-left:12px}@media (min-width:768px){.reviews-page-container{padding-top:30px}.reviews-page-container .reviews-container h2{margin-top:0}}</style>
+<!-- /END: critical-->
+
+
+        
+    
+            <!-- @todo TOMATO-10097 - clean up redesignGlobalStyles-->
+            
+                <link rel="preload" href="/assets/pizza-pie/stylesheets/bundles/layouts/default_DEPRECATED.3363df0449c.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+            
+        
+
+    <link rel="preload" href="/assets/pizza-pie/stylesheets/bundles/pages/reviews.f200730aa60.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+
+        <script>
+        !function(t){"use strict";t.loadCSS||(t.loadCSS=function(){});var e=loadCSS.relpreload={};if(e.support=function(){var e;try{e=t.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),e.bindMediaToggle=function(t){var e=t.media||"all";function a(){t.media=e}t.addEventListener?t.addEventListener("load",a):t.attachEvent&&t.attachEvent("onload",a),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(a,3e3)},e.poly=function(){if(!e.support())for(var a=t.document.getElementsByTagName("link"),n=0;n<a.length;n++){var o=a[n];"preload"!==o.rel||"style"!==o.getAttribute("as")||o.getAttribute("data-loadcss")||(o.setAttribute("data-loadcss",!0),e.bindMediaToggle(o))}},!e.support()){e.poly();var a=t.setInterval(e.poly,500);t.addEventListener?t.addEventListener("load",function(){e.poly(),t.clearInterval(a)}):t.attachEvent&&t.attachEvent("onload",function(){e.poly(),t.clearInterval(a)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:t.loadCSS=loadCSS}("undefined"!=typeof global?global:this);
+        </script>
+
+        <script>
+            window.RottenTomatoes = {};
+            window.RTLocals = {};
+            window.nunjucksPrecompiled = {};
+        </script>
+
+        
+        <script>
+            var dataLayer = dataLayer || [];
+            dataLayer.push({"webVersion":"node","rtVersion":3.1,"loggedInStatus":"","customerId":"","pageName":"rt | movies | reviews | Fast X","titleType":"Movie","titleId":"00b20d93-6265-3079-a0da-de975d7ff0b1","titleName":"Fast X","titleGenre":"Action|Adventure","lifeCycleWindow":""});
+        </script>
+
+        
+            
+            <script id="mps-page-integration">
+                window.mpscall = {"field[rtid]":"00b20d93-6265-3079-a0da-de975d7ff0b1","cag[score]":"56","cag[certified_fresh]":"0","cag[fresh_rotten]":"rotten","cag[rating]":"PG-13","cag[release]":"2023","cag[movieshow]":"Fast X","cag[genre]":"Action|Adventure","cag[urlid]":"fast_x","title":"Fast X"};
+                var mpsopts={'host':'mps.nbcuni.com', 'updatecorrelator':1};
+                var mps=mps||{};mps._ext=mps._ext||{};mps._adsheld=[];mps._queue=mps._queue||{};mps._queue.mpsloaded=mps._queue.mpsloaded||[];mps._queue.mpsinit=mps._queue.mpsinit||[];mps._queue.gptloaded=mps._queue.gptloaded||[];mps._queue.adload=mps._queue.adload||[];mps._queue.adclone=mps._queue.adclone||[];mps._queue.adview=mps._queue.adview||[];mps._queue.refreshads=mps._queue.refreshads||[];mps.__timer=Date.now||function(){return+new Date};mps.__intcode="v2";if(typeof mps.getAd!="function")mps.getAd=function(adunit){if(typeof adunit!="string")return false;var slotid="mps-getad-"+adunit.replace(/\W/g,"");if(!mps._ext||!mps._ext.loaded){mps._queue.gptloaded.push(function(){typeof mps._gptfirst=="function"&&mps._gptfirst(adunit,slotid);mps.insertAd("#"+slotid,adunit)});mps._adsheld.push(adunit)}return'<div id="'+slotid+'" class="mps-wrapper" data-mps-fill-slot="'+adunit+'"></div>'};(function(){head=document.head||document.getElementsByTagName("head")[0],mpsload=document.createElement("script");mpsload.src="//"+mpsopts.host+"/fetch/ext/load-"+mpscall.site+".js?nowrite=2";mpsload.id="mps-load";head.insertBefore(mpsload,head.firstChild)})();
+            </script>
+            
+        
+
+        
+            
+            <script src="https://cdn.jwplayer.com/libraries/U8MHzHHR.js"></script>
+            <script src="https://sb.scorecardresearch.com/c2/plugins/streamingtag_plugin_jwplayer.js"></script>
+        
+
+        
+        
+    </head>
+    
+    <body class="body no-touch js-mptd-layout">
+        <user-activity-manager></user-activity-manager>
+
+        <auth-initiate-manager></auth-initiate-manager>
+<auth-profile-manager></auth-profile-manager>
+<overlay-base
+    class=""
+    data-AuthInitiateManager="overlayBase:close"
+    data-PagePollsIndexManager="authOverlay:close"
+    hidden
+>
+    <overlay-flows data-AuthInitiateManager="overlayFlows" slot="content">
+        <button slot="close" class="auth-overlay__icon-button auth-overlay__icon-button--close" aria-label="Close" data-qa="close-overlay-btn">
+            <rt-icon image icon="close"></rt-icon>
+        </button>
+    </overlay-flows>
+</overlay-base>
+
+<notification-alert data-AuthInitiateManager="authSuccess" class="" animate hidden>
+    <rt-icon icon="check-circled"></rt-icon>
+    <span>Signed in</span>
+</notification-alert>
+
+<div id="auth-templates" data-AuthInitiateManager="authTemplates">
+    <template slot="screens" id="cognito-loading">
+    <div>
+        <loading-spinner id="cognito-auth-loading-spinner"></loading-spinner>
+        <style>
+            #cognito-auth-loading-spinner {
+                font-size: 2rem;
+                transform: translate(calc(100% - 1em), 250px);
+                width: 50%;
+            }
+        </style>
+    </div>
+</template>
+
+    <template slot="screens" id="cognito-signup-form">
+<auth-signup-screen data-qa="auth-signup-screen">
+    <h2 slot="header" class="cognito-signup-form__header" data-qa="auth-signup-screen-title">Log in or sign up for Rotten Tomatoes</h2>
+    <rt-button slot="signup-option" theme="light" class="cognito-signup-form__option" value="google" data-qa="auth-signup-screen-google-btn">
+        <div class="cognito-signup-form__option__container">
+            <span class="cognito-signup-form__option__icon cognito-signup-form__option__icon--google"></span>
+            <span class="cognito-signup-form__option__text">Continue with Google</span>
+        </div>
+    </rt-button>
+    <rt-button slot="signup-option" theme="light" class="cognito-signup-form__option" value="email" data-qa="auth-signup-screen-email-btn">
+        <div class="cognito-signup-form__option__container">
+            <rt-icon image icon="mail" class="cognito-signup-form__option__icon cognito-signup-form__option__icon--mail"></rt-icon>
+            <span class="cognito-signup-form__option__text">Continue with Email</span>
+        </div>
+    </rt-button>
+        
+    <input-label slot="email">
+        <label slot="label" for="cognito-email-input" class="auth-form__control__label">Email</label>
+        <input slot="input" id="cognito-email-input" type="email" data-qa="auth-signup-screen-email">
+    </input-label>
+
+    <div slot="info">
+        <div class="no-password-container">
+            <rt-badge>New</rt-badge>
+            <span class="no-password">Where is the password field?</span>
+            <tool-tip
+                class="cognito-signup-form__tooltip"
+                title="Where is the password field?"
+                description="Rotten Tomatoes now offers passwordless authentication for all user accounts, making it easier for you to access your information. Simply enter the email address you previously used and hit continue to complete your log-in."
+                slot="tooltip"
+                nomobilefooter
+            >
+                <button slot="tool-tip-btn" class="button--link">
+                    <rt-icon icon="question-circled" image></rt-icon>
+                </button>
+            </tool-tip>
+        </div>
+    </div>
+    
+    <button slot="continue" class="auth-form__button" data-qa="auth-signup-screen-continue-btn">Continue</button>
+
+    <p slot="help" class="cognito-signup-form-help">
+        <a href="/reset-client" data-qa="auth-signup-screen-reset-client-link">Trouble logging in?</a>
+    </p>
+    
+    <p slot="terms-and-policies" class="cognito-signup-form__terms-and-policies">
+        By continuing, you agree to the <a href="https://www.fandango.com/policies/privacy-policy" target="_blank" rel="noopener" data-qa="auth-signup-screen-privacy-policy-link">Privacy Policy</a> and 
+        the <a href="https://www.fandango.com/policies/terms-and-policies" target="_blank" rel="noopener" data-qa="auth-signup-screen-terms-policies-link">Terms and Policies</a>, and to receive email from Rotten Tomatoes.
+    </p>
+</auth-signup-screen>
+</template>
+    <template slot="screens" id="cognito-name-form">
+  <auth-name-screen data-qa="auth-name-screen">
+    <input-label slot="firstName" data-qa="auth-name-screen-firstname-input">
+      <label slot="label" for="cognito-first-name-input" class="auth-form__control__label">First name (Required)</label>
+      <input slot="input" id="cognito-first-name-input" data-qa="auth-name-screen-first-name">
+    </input-label>
+    <input-label slot="lastName" data-qa="auth-name-screen-lastname-input">
+      <label slot="label" for="cognito-last-name-input" class="auth-form__control__label">Last name (Required)</label>
+      <input slot="input" id="cognito-last-name-input" data-qa="auth-name-screen-last-name">
+    </input-label>
+    <rt-button slot="createAccount" class="auth-form__button">Create my account</rt-button>
+    <p slot="termsAndPolicies" class="cognito-signup-form__terms-and-policies">
+      By creating an account, you agree to the
+      <a href="https://www.fandango.com/policies/privacy-policy" target="_blank" rel="noopener" data-qa="auth-name-screen-privacy-policy-link"> Privacy Policy </a>
+      and the<br>
+      <a href="https://www.fandango.com/policies/terms-and-policies" target="_blank" rel="noopener" data-qa="auth-name-screen-terms-policies-link"> Terms and Policies</a>
+      , and to receive email from Rotten Tomatoes.
+    </p>
+  </auth-name-screen>
+</template>
+
+    <template slot="screens" id="cognito-checkemail">
+    <auth-checkemail-screen data-qa="auth-check-email-screen">
+        <span slot="email-icon" class="cognito-check-email__icon--email"></span>
+        <span slot="mobile-icon" class="cognito-check-email__icon--mobile"></span>
+        <button slot="learn-more" class="text-button" tabindex="0" data-qa="auth-check-email-screen-learn-more-link">LEARN MORE</button>
+        <a slot="help" tabindex="0" target="_blank" href="/help_desk" data-qa="auth-check-email-screen-help-link">HELP</a>
+    </auth-checkemail-screen>
+</template>
+
+    <template slot="screens" id="cognito-learn-more">
+  <auth-learn-more-screen data-qa="auth-learn-more-screen">
+    <button slot="back" class="auth-overlay__icon-button auth-overlay__icon-button--back">
+      <rt-icon icon="left-arrow-stem" image></rt-icon>
+    </button>
+  </auth-learn-more-screen>
+</template>
+    <template slot="screens" id="cognito-error">
+    <auth-error-screen data-qa="auth-error-screen">
+        <h2 slot="heading" class="cognito-error__heading" data-qa="auth-error-screen-title">
+            <rt-icon image icon="exclamation-circled" class="cognito-error__icon--exclamation-circled"></rt-icon>
+            <span class="js-cognito-error-heading-txt">Email not verified</span>
+        </h2>
+        <p slot="error-message" class="js-cognito-error-message cognito-error__error-message" data-qa="auth-error-screen-message">
+            <!-- error message is set from auth-error-screen WC-->
+        </p>
+        <p slot="error-code" class="js-cognito-error-code cognito-error__error-message" data-qa="auth-error-screen-code">
+            <!-- error code is set from auth-error-screen WC-->
+        </p>
+        <rt-button slot="tryAgainBtn" class="cognito-error__try-again-btn"><span class="cognito-error__btn-text" data-qa="auth-error-screen-try-again-btn">TRY AGAIN</span></rt-button>
+        <rt-button slot="cancelBtn" class="cognito-error__cancel-btn" theme="light"><span class="cognito-error__btn-text" data-qa="auth-error-screen-cancel-btn">CANCEL</span></rt-button>
+    </auth-error-screen>
+</template>
+
+    <template slot="screens" id="cognito-opt-in">
+  <auth-optin-screen data-qa="auth-opt-in-screen">
+    <div slot="newsletterText">
+      <h2 class="cognito-optin-form__header unset">Let's keep in touch!</h2>
+    </div>
+    <img slot="image" class="image" src="https://images.fandango.com/cms/assets/97c33f00-313f-11ee-9aaf-6762c75465cf--newsletter.png" alt="Rotten Tomatoes Newsletter">>
+    <h2 slot="subTitle" class="subTitle unset">Sign up for the Rotten Tomatoes newsletter to get weekly updates on:</h2>
+    <ul slot="options">
+      <li class="icon-item">Upcoming Movies and TV shows</li>
+      <li class="icon-item">Trivia & Rotter Tomatoes Podcast</li>
+      <li class="icon-item">Media News + More</li>
+    </ul>
+    <rt-button slot="optInButton" data-qa="auth-opt-in-screen-opt-in-btn">
+      Sign me up
+    </rt-button>
+    <rt-button slot="optOutButton" class="button--outline" data-qa="auth-opt-in-screen-opt-out-btn">
+      No thanks
+    </rt-button>
+  </auth-optin-screen>
+</template>
+    <template slot="screens" id="cognito-opt-in-success">
+    <auth-verify-screen>
+        <rt-icon icon="check-circled" slot="icon"></rt-icon>
+        <p class="h3" slot="status">OK, got it!</p>
+    </auth-verify-screen>
+</template>
+
+</div>
+
+
+        <div id="emptyPlaceholder"></div> 
+
+        
+            
+            <script ASYNC src="//assets.adobedtm.com/launch-EN549327edc13e414a9beb5d61bfd9aac6.min.js"></script>
+            
+        
+
+        <div class="container rt-layout__body">
+            <div id="header_and_leaderboard">
+                <div id="top_leaderboard_wrapper" class="leaderboard_wrapper ">
+                    <ad-unit hidden unitdisplay="desktop" unittype="topbanner" adjustheight>
+                        <div slot="adInject"></div>
+                    </ad-unit>
+
+                    <ad-unit hidden unitdisplay="mobile" unittype="mbanner">
+                        <div slot="adInject"></div>
+                    </ad-unit>
+                </div>
+            </div>
+
+            
+
+  <rt-header-manager></rt-header-manager>
+
+  <rt-header
+    aria-label="navigation bar"
+    class="navbar"
+    data-qa="header-nav-bar"
+    id="header-main"
+    skeleton="panel"
+    
+  >
+  <a slot="skip-link" href="#main-page-content" class="skip-link">Skip to Main Content</a>
+
+  <a id="navbar" slot="logo" href="/" class="logo-wrap">
+    
+    
+      <img
+        alt="Rotten Tomatoes"
+        data-qa="header-logo"
+        src="https://images.fandango.com/cms/assets/2d5a3340-be84-11ed-9d20-83ee649e98bd--rt25-logo-mainnav-161x50.svg"
+        fetchpriority="high"
+      />
+    
+
+    <div class="hide">
+      <ad-unit hidden unitdisplay="desktop,mobile" unittype="logorepeat" unittargeting="ploc=rtlogo;">
+        <div slot="adInject"></div>
+      </ad-unit>
+    </div>
+  </a>
+
+  <search-algolia slot="desktop-search" skeleton="transparent">
+    <search-algolia-controls slot="search-controls">
+      <input
+        class="search-text"
+        aria-label="Search"
+        data-qa="search-input"
+        placeholder="Search movies, TV, actors, more.."
+        slot="search-input"
+        type="text"
+      />
+      <button
+        class="search-clear"
+        data-qa="search-clear"
+        slot="search-clear"
+      >
+        <rt-icon icon="close" image></rt-icon>
+      </button>
+      <a
+        class="search-submit"
+        aria-label="Submit search"
+        data-qa="search-submit"
+        href="/search"
+        slot="search-submit"
+      >
+        <rt-icon icon="search" image></rt-icon>
+      </a>
+      <button
+        class="search-cancel"
+        data-qa="search-cancel"
+        slot="search-cancel"
+      >
+        Cancel
+      </button>
+    </search-algolia-controls>
+    <search-algolia-results slot="search-results" data-qa="search-results-overlay">
+      <search-algolia-results-category slot="content" data-qa="search-results-category">
+        <h2 slot="title" data-qa="search-category-header" class="h2">Movies / TV</h2>
+        <ul slot="results"></ul>
+      </search-algolia-results-category>
+      <search-algolia-results-category slot="celebrity" data-qa="search-results-category">
+        <h2 slot="title" data-qa="search-category-header" class="h2">Celebrity</h2>
+        <ul slot="results"></ul>
+      </search-algolia-results-category>
+      <search-algolia-results-category slot="none">
+        <h2 slot="title" data-qa="search-no-results" class="h2">No Results Found</h2>
+      </search-algolia-results-category>
+      <a slot="view-all" href="/" data-qa="search-view-all">View All</a>
+    </search-algolia-results>
+  </search-algolia>
+
+  <mobile-search-algolia slot="mobile-search" logoselector="#navbar .logo-wrap" navselector="#navbar" data-qa="mobile-search-algolia"></mobile-search-algolia>
+
+  <ul slot="nav-links">
+    <li><a href="/about#whatisthetomatometer" data-qa="header:link-whats-tmeter">What's the Tomatometer&reg;?</a></li>
+    <li><a href="/critics" data-qa="header:link-critics-home">Critics</a></li>
+    <li data-RtHeaderManager="loginLink">
+      <ul>
+        <li>
+          <button
+            id="masthead-show-login-btn"
+            class="js-cognito-signin button--link"
+            data-AuthInitiateManager="btnSignIn:click"
+            data-qa="header:login-btn"
+        >Login/signup</button>
+        </li>
+      </ul>
+    </li>
+    <li class="hide" data-RtHeaderManager="userItem:keydown,keyup,mouseenter" data-qa="header:user">
+      <a class="masthead-user-link" data-RtHeaderManager="navUserlink:focus" rel="nofollow" data-qa="user-profile-link">
+        <img data-RtHeaderManager="navUserImg" data-qa="user-profile-thumb">
+        <p data-RtHeaderManager="navUserFirstName" data-qa="user-profile-name"></p>
+        <rt-icon icon="down-dir" image></rt-icon>
+      </a>
+      <rt-header-user-info
+        class="hide"
+        data-RtHeaderManager="userInfo:focusout,mouseleave"
+        data-UserActivityManager="userInfo"
+      >
+        <a 
+          data-qa="user-stats-profile-pic"
+          href=""
+          rel="nofollow" 
+          slot="imageExpanded"
+          tabindex="-1"
+        >
+          <img src="" width="40" alt="">
+        </a>
+        <a slot="fullName" rel="nofollow" href="" class="username" data-qa="user-stats-name"></a>
+        <a slot="wts" rel="nofollow" href="" class="wts-count-block" data-qa="user-stats-wts">
+          <rt-icon icon="plus" data-qa="user-stats-ratings-count"></rt-icon>
+          <span class="count" data-qa="user-stats-wts-count"></span>
+          &nbsp;Wants to See
+        </a>
+        <a slot="rating" rel="nofollow" href="" class="rating-count-block" data-qa="user-stats-ratings">
+          <rt-icon icon="star" data-qa="user-stats-ratings-count"></rt-icon>
+          <span class="count"></span>
+          &nbsp;Ratings
+        </a>
+
+        <a slot="profileLink" rel="nofollow" class="dropdown-link" href="" data-qa="user-stats-profile-link">Profile</a>
+        <a slot="accountLink" rel="nofollow" class="dropdown-link" href="/user/account" data-qa="user-stats-account-link">Account</a>
+        <a slot="logoutLink" class="dropdown-link" data-RtHeaderManager="logoutLink:click" href="#logout" data-qa="user-stats-logout-link">Log Out</a>
+      </rt-header-user-info>
+    </li>
+  </ul>
+
+  <rt-header-nav slot="nav-dropdowns">
+    <rt-header-nav-item slot="movies" data-qa="masthead:movies-dvds">
+      <a class="unset" slot="link" href="/browse/movies_in_theaters" data-qa="masthead:movies-dvds-link">Movies</a>
+      <rt-header-nav-item-dropdown aria-expanded="false" slot="dropdown">
+        <rt-header-nav-item-dropdown-list slot="column" data-qa="header-movies-in-theaters">
+          <p slot="title" class="h4" data-qa="movies-in-theaters-main-link"><a class="unset" href="/browse/movies_in_theaters">Movies in theaters</a></p>
+          <ul slot="links">
+            <li data-qa="in-theaters-item">
+              <a href="/browse/movies_in_theaters/sort:newest" data-qa="opening-this-week-link">Opening this week</a>
+            </li>
+            <li data-qa="in-theaters-item">
+              <a href="/browse/movies_coming_soon/" data-qa="coming-soon-link">Coming soon to theaters</a>
+            </li>
+            <li data-qa="in-theaters-item">
+              <a href="/browse/movies_in_theaters/critics:certified_fresh~sort:popular" data-qa="certified-fresh-link">Certified fresh movies</a>
+            </li>
+          </ul>
+        </rt-header-nav-item-dropdown-list>
+        <rt-header-nav-item-dropdown-list slot="column" data-qa="header-on-dvd-streaming">
+          <p slot="title" class="h4" data-qa="dvd-streaming-main-link"><a class="unset" href="/browse/movies_at_home">Movies at home</a></p>
+          <ul slot="links">
+            <li data-qa="dvd-streaming-item">
+              <a href="/browse/movies_at_home/affiliates:peacock" data-qa="peacock-link">Peacock</a>
+            </li>
+            <li data-qa="dvd-streaming-item">
+              <a href="/browse/movies_at_home/affiliates:vudu" data-qa="vudu-link">Vudu</a>
+            </li>
+            <li data-qa="dvd-streaming-item">
+              <a href="/browse/movies_at_home/affiliates:netflix" data-qa="netflix-link">Netflix streaming</a>
+            </li>
+            <li data-qa="dvd-streaming-item">
+              <a href="/browse/movies_at_home/affiliates:apple_tv_us,apple_tv_plus" data-qa="apple-tv-link">Apple TV</a>
+            </li>
+            <li data-qa="dvd-streaming-item">
+              <a href="/browse/movies_at_home/affiliates:amazon_prime" data-qa="amazon-link">Amazon prime</a>
+            </li>
+            <li data-qa="dvd-streaming-item">
+              <a href="/browse/movies_at_home/sort:popular" data-qa="most-popular-link">Most popular streaming movies</a>
+            </li>
+            <li data-qa="dvd-streaming-item">
+              <a href="/browse/movies_at_home/critics:certified_fresh" data-qa="certified-fresh-link">Certified fresh movies</a>
+            </li>
+            <li data-qa="dvd-streaming-item">
+              <a href="/browse/movies_at_home" data-qa="browse-all-link">Browse all</a>
+            </li>
+          </ul>
+        </rt-header-nav-item-dropdown-list>
+        <rt-header-nav-item-dropdown-list slot="column" data-qa="header-movies-more">
+          <p slot="title" class="h4">More</p>
+          <ul slot="links">
+            <li data-qa="what-to-watch-item">
+                <a href="https://editorial.rottentomatoes.com/what-to-watch/ " class="what-to-watch" data-qa="what-to-watch-link">What to Watch<rt-badge>New</rt-badge></a>
+            </li>
+            <li data-qa="top-movies-item">
+              <a href="/top" data-qa="top-movies-link">Top movies</a>
+            </li>
+            <li data-qa="trailers-item">
+              <a href="/trailers" data-qa="trailers-link">Trailers</a>
+            </li>
+          </ul>
+        </rt-header-nav-item-dropdown-list>
+        
+          <rt-header-nav-item-dropdown-list slot="column" cfp>
+            <p slot="title" class="h4">Certified fresh picks</p>
+            <ul slot="links" class="cfp-wrap" data-qa="header-certified-fresh-picks" data-curation="rt-nav-list-cf-picks">
+              
+                <li data-qa="cert-fresh-item">
+                  
+                  <a class="cfp-tile" href="/m/killers_of_the_flower_moon" data-qa="cert-fresh-link">
+    <tile-dynamic data-qa="tile">
+        <img
+            alt="Killers of the Flower Moon poster image"
+            slot="image"
+            src="https://resizing.flixster.com/PYmozwgDtJeF1M3gdwEdW3M9_kg=/206x305/v2/https://resizing.flixster.com/XHPHiHfJoxMe7zOs-4N9S6IjVx0=/fit-in/180x240/v2/https://resizing.flixster.com/GGQKtXozu58SHWKH0Cz-5jQ9U38=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZhOWE1N2ZkLTY4MzgtNDA3Yi05MDEwLWQzN2QwMTFkZDdmNS5qcGc="
+            loading="lazy"
+        />
+        <div slot="caption" data-track="scores">
+            <score-icon-critic-deprecated
+                alignment="left"
+                percentage="92"
+                state="certified_fresh"
+            ></score-icon-critic-deprecated>
+            <span class="p--small">Killers of the Flower Moon</span>
+            <span class="sr-only">Link to Killers of the Flower Moon</span>
+        </div>
+    </tile-dynamic>
+</a>
+                </li>
+              
+              
+                <li data-qa="cert-fresh-item">
+                  
+                  <a class="cfp-tile" href="/m/the_killer_2023" data-qa="cert-fresh-link">
+    <tile-dynamic data-qa="tile">
+        <img
+            alt="The Killer poster image"
+            slot="image"
+            src="https://resizing.flixster.com/zytoR7KnoXOLqzH-7Iu5dC_rXx8=/206x305/v2/https://resizing.flixster.com/IeY_hwUIozl0TboxoIjXVdBox5g=/fit-in/180x240/v2/https://resizing.flixster.com/Ux0YYpq25r4CNYj-TM2YhlcTYU8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I2Y2U1ZjNkLWQwNzEtNDFiNS1iZmYzLWQ5NWFmM2Y1OGMyNS5qcGc="
+            loading="lazy"
+        />
+        <div slot="caption" data-track="scores">
+            <score-icon-critic-deprecated
+                alignment="left"
+                percentage="82"
+                state="certified_fresh"
+            ></score-icon-critic-deprecated>
+            <span class="p--small">The Killer</span>
+            <span class="sr-only">Link to The Killer</span>
+        </div>
+    </tile-dynamic>
+</a>
+                </li>
+              
+              
+                <li data-qa="cert-fresh-item">
+                  
+                  <a class="cfp-tile" href="/m/nyad" data-qa="cert-fresh-link">
+    <tile-dynamic data-qa="tile">
+        <img
+            alt="Nyad poster image"
+            slot="image"
+            src="https://resizing.flixster.com/47ip5tWUcC1IcAf8WLdT_sbC56U=/206x305/v2/https://resizing.flixster.com/_W7stQpJJS9tN3JE0LPzTX_cssE=/fit-in/180x240/v2/https://resizing.flixster.com/USyHLImaPpxv-2fWRqj5jBpE2xw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM4ZDVlYWU4LWM1OWQtNDFkYy05MWNjLTlmNjE3NjkyNmM2Zi5qcGc="
+            loading="lazy"
+        />
+        <div slot="caption" data-track="scores">
+            <score-icon-critic-deprecated
+                alignment="left"
+                percentage="86"
+                state="certified_fresh"
+            ></score-icon-critic-deprecated>
+            <span class="p--small">Nyad</span>
+            <span class="sr-only">Link to Nyad</span>
+        </div>
+    </tile-dynamic>
+</a>
+                </li>
+              
+            </ul>
+          </rt-header-nav-item-dropdown-list>
+        
+      </rt-header-nav-item-dropdown>
+    </rt-header-nav-item>
+
+    <rt-header-nav-item slot="tv" data-qa="masthead:tv">
+      <a class="unset" slot="link" href="/browse/tv_series_browse/sort:popular" data-qa="masthead:tv-link">Tv shows</a>
+      <rt-header-nav-item-dropdown aria-expanded="false" slot="dropdown">
+        
+          <rt-header-nav-item-dropdown-list slot="column" data-qa="header-tv-list1">
+            <p slot="title" class="h4" data-curation="rt-hp-text-list-new-tv-this-week">
+              New TV Tonight
+            </p>
+            <ul slot="links" class="score-list-wrap">
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/the_american_buffalo/s01" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage="100"
+        state="fresh"
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            The American Buffalo: Season 1
+        
+    </span>
+</a>
+                </li>
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/scavengers_reign/s01" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage="100"
+        state="fresh"
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            Scavengers Reign: Season 1
+        
+    </span>
+</a>
+                </li>
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/wolf_like_me/s02" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage="100"
+        state="fresh"
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            Wolf Like Me: Season 2
+        
+    </span>
+</a>
+                </li>
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/upload/s03" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage="90"
+        state="fresh"
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            Upload: Season 3
+        
+    </span>
+</a>
+                </li>
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/everyone_else_burns/s01" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage="83"
+        state="fresh"
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            Everyone Else Burns: Season 1
+        
+    </span>
+</a>
+                </li>
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/rick_and_morty/s07" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage="73"
+        state="fresh"
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            Rick and Morty: Season 7
+        
+    </span>
+</a>
+                </li>
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/neon/s01" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage="88"
+        state="fresh"
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            Neon: Season 1
+        
+    </span>
+</a>
+                </li>
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/bosch_legacy/s02" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage="100"
+        state="fresh"
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            Bosch: Legacy: Season 2
+        
+    </span>
+</a>
+                </li>
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/billy_the_kid/s02" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage=""
+        state=""
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            Billy the Kid: Season 2
+        
+    </span>
+</a>
+                </li>
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/living_for_the_dead/s01" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage=""
+        state=""
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            Living for the Dead: Season 1
+        
+    </span>
+</a>
+                </li>
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/captain_laserhawk_a_blood_dragon_remix/s01" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage=""
+        state=""
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            Captain Laserhawk: A Blood Dragon Remix: Season 1
+        
+    </span>
+</a>
+                </li>
+              
+            </ul>
+            <a
+              class="a--short"
+              data-qa="tv-list1-view-all-link"
+              href="/browse/tv_series_browse/sort:newest"
+              slot="view-all-link"
+            >
+                View All
+            </a>
+          </rt-header-nav-item-dropdown-list>
+        
+
+        
+          <rt-header-nav-item-dropdown-list slot="column" data-qa="header-tv-list2"]>
+            <p slot="title" class="h4" data-curation="rt-hp-text-list-most-popular-tv-on-rt">
+              Most Popular TV on RT
+            </p>
+            <ul slot="links" class="score-list-wrap">
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/sex_education/s04" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage="91"
+        state="certified_fresh"
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            Sex Education: Season 4
+        
+    </span>
+</a>
+                </li>
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/the_fall_of_the_house_of_usher/s01" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage="90"
+        state="certified_fresh"
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            The Fall of the House of Usher: Season 1
+        
+    </span>
+</a>
+                </li>
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/bodies_2023/s01" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage="79"
+        state="fresh"
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            Bodies: Season 1
+        
+    </span>
+</a>
+                </li>
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/lessons_in_chemistry/s01" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage="81"
+        state="certified_fresh"
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            Lessons in Chemistry: Season 1
+        
+    </span>
+</a>
+                </li>
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/goosebumps_2023/s01" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage="77"
+        state="certified_fresh"
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            Goosebumps: Season 1
+        
+    </span>
+</a>
+                </li>
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/loki/s02" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage="87"
+        state="certified_fresh"
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            Loki: Season 2
+        
+    </span>
+</a>
+                </li>
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/gen_v/s01" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage="97"
+        state="certified_fresh"
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            Gen V: Season 1
+        
+    </span>
+</a>
+                </li>
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/our_flag_means_death/s02" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage="94"
+        state="certified_fresh"
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            Our Flag Means Death: Season 2
+        
+    </span>
+</a>
+                </li>
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/wolf_like_me/s02" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage="100"
+        state="fresh"
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            Wolf Like Me: Season 2
+        
+    </span>
+</a>
+                </li>
+              
+                <li data-qa="list-item">
+                  <a class="score-list-item" href="/tv/rick_and_morty/s07" data-qa="list-item-link">
+    <score-icon-critic-deprecated
+        alignment="left"
+        percentage="73"
+        state="fresh"
+    ></score-icon-critic-deprecated>
+    <span>
+        
+            Rick and Morty: Season 7
+        
+    </span>
+</a>
+                </li>
+              
+            </ul>
+            <a
+              class="a--short"
+              data-qa="tv-list2-view-all-link"
+              href="/browse/tv_series_browse/sort:popular?"
+              slot="view-all-link"
+            >
+                View All
+            </a>
+          </rt-header-nav-item-dropdown-list>
+        
+
+        <rt-header-nav-item-dropdown-list slot="column" data-qa="header-tv-more">
+          <p slot="title" class="h4">More</p>
+          <ul slot="links">
+            <li data-qa="what-to-watch-item-tv">
+              <a href="https://editorial.rottentomatoes.com/what-to-watch/ " class="what-to-watch" data-qa="what-to-watch-link-tv">
+                What to Watch<rt-badge>New</rt-badge>
+              </a>
+            </li>
+            <li data-qa="tv-popular-item">
+              <a href="/browse/tv_series_browse/sort:popular" data-qa="tv-popular-link">
+                <span>Top TV Shows</span>
+              </a>
+            </li>
+            <li data-qa="tv-cf-item">
+              <a href="/browse/tv_series_browse/critics:fresh" data-qa="tv-cf-link">
+                <span>Certified Fresh TV</span>
+              </a>
+            </li>
+            <li>
+              <a href="/browse/tv_series_browse/affiliates:peacock">
+                <span>Peacock</span>
+              </a>
+            </li>
+            <li>
+              <a href="/browse/tv_series_browse/affiliates:vudu">
+                <span>Vudu</span>
+              </a>
+            </li>
+            <li>
+              <a href="/browse/tv_series_browse/affiliates:netflix">
+                <span>Netflix streaming</span>
+              </a>
+            </li>
+            <li>
+              <a href="/browse/tv_series_browse/affiliates:apple_tv_us,apple_tv_plus">
+                <span>Apple TV</span>
+              </a>
+            </li>
+            <li>
+              <a href="/browse/tv_series_browse/affiliates:amazon_prime">
+                <span>Amazon prime</span>
+              </a>
+            </li>
+            <li>
+              <a href="/browse/tv_series_browse/sort:popular">
+                <span>Most popular TV</span>
+              </a>
+            </li>
+          </ul>
+        </rt-header-nav-item-dropdown-list>
+
+        
+          <rt-header-nav-item-dropdown-list slot="column" cfp data-qa="header-certified-fresh-pick">
+            <p slot="title" class="h4">
+              Certified fresh pick
+            </p>
+            <ul slot="links" class="cfp-wrap" data-curation="rt-nav-list-cf-picks">
+              <li>
+                
+                <a class="cfp-tile" href="/tv/lessons_in_chemistry/s01" data-qa="cert-fresh-link">
+    <tile-dynamic data-qa="tile">
+        <img
+            alt="Lessons in Chemistry: Season 1 poster image"
+            slot="image"
+            src="https://resizing.flixster.com/nDUYxLMa9LY-5zEnoaiKBVo3SUM=/206x305/v2/https://resizing.flixster.com/3Kg48UQn-l78t_T39xwEQjbGZmc=/fit-in/180x240/v2/https://resizing.flixster.com/2aw5enGVdoHL9qD2dxPBtZuTrAU=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vMjE1NjUzMjEtZjNiMy00Nzc4LWJhM2MtMDNkMWJmZjI4NGNjLnBuZw=="
+            loading="lazy"
+        />
+        <div slot="caption" data-track="scores">
+            <score-icon-critic-deprecated
+                alignment="left"
+                percentage="81"
+                state="certified_fresh"
+            ></score-icon-critic-deprecated>
+            <span class="p--small">Lessons in Chemistry: Season 1</span>
+            <span class="sr-only">Link to Lessons in Chemistry: Season 1</span>
+        </div>
+    </tile-dynamic>
+</a>
+              </li>
+            </ul>
+          </rt-header-nav-item-dropdown-list>
+        
+      </rt-header-nav-item-dropdown>
+    </rt-header-nav-item>
+
+    <rt-header-nav-item slot="trivia">
+      <a class="unset"
+          slot="link"
+          href="https://rottentomatoes.com/daily"
+          target="_blank"
+          data-qa="masthead:trivia-link"
+      >
+          Movie Trivia
+          <temporary-display
+            slot="temporary-display"
+            key="trivia"
+            element="#triviaLink"
+            event="click"
+          >
+            <rt-badge hidden>New</rt-badge>
+          </temporary-display>
+      </a>
+    </rt-header-nav-item>
+
+    <rt-header-nav-item slot="news" data-qa="masthead:news">
+      <a class="unset" slot="link" href="https://editorial.rottentomatoes.com/" data-qa="masthead:news-link">News</a>
+      <rt-header-nav-item-dropdown aria-expanded="false" slot="dropdown">
+        <rt-header-nav-item-dropdown-list slot="column" data-qa="header-news-columns">
+          <p slot="title" class="h4">Columns</p>
+          <ul slot="links">
+            <li data-qa="column-item">
+              <a href="https://editorial.rottentomatoes.com/all-time-lists/" data-pageheader="All-Time Lists" data-qa="column-link">
+                All-Time Lists
+              </a>
+            </li>
+            <li data-qa="column-item">
+              <a href="https://editorial.rottentomatoes.com/binge-guide/" data-pageheader="Binge Guide" data-qa="column-link">
+                Binge Guide
+              </a>
+            </li>
+            <li data-qa="column-item">
+              <a href="https://editorial.rottentomatoes.com/comics-on-tv/" data-pageheader="Comics on TV" data-qa="column-link">
+                Comics on TV
+              </a>
+            </li>
+            <li data-qa="column-item">
+              <a href="https://editorial.rottentomatoes.com/countdown/" data-pageheader="Countdown" data-qa="column-link">
+                Countdown
+              </a>
+            </li>
+            <li data-qa="column-item">
+              <a href="https://editorial.rottentomatoes.com/five-favorite-films/" data-pageheader="Five Favorite Films" data-qa="column-link">
+                Five Favorite Films
+              </a>
+            </li>
+            <li data-qa="column-item">
+              <a href="https://editorial.rottentomatoes.com/video-interviews/" data-pageheader="Video Interviews" data-qa="column-link">
+                Video Interviews
+              </a>
+            </li>
+            <li data-qa="column-item">
+              <a href="https://editorial.rottentomatoes.com/weekend-box-office/" data-pageheader="Weekend Box Office" data-qa="column-link"
+              >Weekend Box Office
+            </a>
+            </li>
+            <li data-qa="column-item">
+              <a href="https://editorial.rottentomatoes.com/weekly-ketchup/" data-pageheader="Weekly Ketchup" data-qa="column-link">
+                Weekly Ketchup
+              </a>
+            </li>
+            <li data-qa="column-item">
+              <a href="https://editorial.rottentomatoes.com/what-to-watch/" data-pageheader="What to Watch" data-qa="column-link">
+                What to Watch
+              </a>
+            </li>
+          </ul>
+        </rt-header-nav-item-dropdown-list>
+
+        
+          <rt-header-nav-item-dropdown-list slot="column" data-qa="header-news-guides">
+            <p slot="title" class="h4">Guides</p>
+            <ul slot="links" class="news-wrap">
+              
+                <li data-qa="guides-item">
+                  <a class="news-tile" href="https://editorial.rottentomatoes.com/guide/all-martin-scorsese-movies-ranked-by-tomatometer/" data-qa="news-link">
+    <tile-dynamic
+        data-qa="tile"
+        orientation="landscape"
+    >
+        <img
+            alt="All Martin Scorsese Movies Ranked by Tomatometer poster image"
+            slot="image"
+            src="https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2020/11/17123611/600MartinScorsese.jpg"
+            loading="lazy"
+        />
+        <div slot="caption">
+            <p>All Martin Scorsese Movies Ranked by Tomatometer</p>
+            <span class="sr-only">Link to All Martin Scorsese Movies Ranked by Tomatometer</span>
+        </div>
+    </tile-dynamic>
+</a>
+                </li>
+              
+                <li data-qa="guides-item">
+                  <a class="news-tile" href="https://editorial.rottentomatoes.com/guide/best-anime-movies/" data-qa="news-link">
+    <tile-dynamic
+        data-qa="tile"
+        orientation="landscape"
+    >
+        <img
+            alt="100 Best Anime Movies of All Time poster image"
+            slot="image"
+            src="https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2023/10/19094259/600Akira.jpg"
+            loading="lazy"
+        />
+        <div slot="caption">
+            <p>100 Best Anime Movies of All Time</p>
+            <span class="sr-only">Link to 100 Best Anime Movies of All Time</span>
+        </div>
+    </tile-dynamic>
+</a>
+                </li>
+              
+            </ul>
+            <a
+              class="a--short"
+              data-qa="guides-view-all-link"
+              href="https://editorial.rottentomatoes.com/countdown/"
+              slot="view-all-link"
+            >
+              View All
+            </a>
+          </rt-header-nav-item-dropdown-list>
+        
+
+        
+          <rt-header-nav-item-dropdown-list slot="column" data-qa="header-news-hubs">
+            <p slot="title" class="h4">Hubs</p>
+            <ul slot="links" class="news-wrap">
+              
+                <li data-qa="hubs-item">
+                  <a class="news-tile" href="https://editorial.rottentomatoes.com/rt-hub/what-to-watch/" data-qa="news-link">
+    <tile-dynamic
+        data-qa="tile"
+        orientation="landscape"
+    >
+        <img
+            alt="What to Watch: In Theaters and On Streaming poster image"
+            slot="image"
+            src="https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2023/05/04130548/RT_WTW_Generic_2023_Thumbnail_600x314_021623.jpg"
+            loading="lazy"
+        />
+        <div slot="caption">
+            <p>What to Watch: In Theaters and On Streaming</p>
+            <span class="sr-only">Link to What to Watch: In Theaters and On Streaming</span>
+        </div>
+    </tile-dynamic>
+</a>
+                </li>
+              
+                <li data-qa="hubs-item">
+                  <a class="news-tile" href="https://editorial.rottentomatoes.com/rt-hub/hispanic-heritage/" data-qa="news-link">
+    <tile-dynamic
+        data-qa="tile"
+        orientation="landscape"
+    >
+        <img
+            alt="Celebrating Hispanic Heritage poster image"
+            slot="image"
+            src="https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2022/09/07181530/RT_HH2023_Hub_600x314_090723.jpg"
+            loading="lazy"
+        />
+        <div slot="caption">
+            <p>Celebrating Hispanic Heritage</p>
+            <span class="sr-only">Link to Celebrating Hispanic Heritage</span>
+        </div>
+    </tile-dynamic>
+</a>
+                </li>
+              
+            </ul>
+            <a
+              class="a--short"
+              data-qa="hubs-view-all-link"
+              href="https://editorial.rottentomatoes.com/rt-hubs/"
+              slot="view-all-link"
+            >
+              View All
+            </a>
+          </rt-header-nav-item-dropdown-list>
+        
+
+        
+          <rt-header-nav-item-dropdown-list slot="column" data-qa="header-news-rt-news">
+            <p slot="title" class="h4">RT News</p>
+            <ul slot="links" class="news-wrap">
+              
+                <li data-qa="rt-news-item">
+                  <a class="news-tile" href="https://editorial.rottentomatoes.com/article/fang-off-tv-vampire-bracket/" data-qa="news-link">
+    <tile-dynamic
+        data-qa="tile"
+        orientation="landscape"
+    >
+        <img
+            alt="The Ultimate TV Fang-Off: Vote for the Best Vampire poster image"
+            slot="image"
+            src="https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2023/10/20122458/UltimateTVFang-Off_Rd4-550x310-1.jpg"
+            loading="lazy"
+        />
+        <div slot="caption">
+            <p>The Ultimate TV Fang-Off: Vote for the Best Vampire</p>
+            <span class="sr-only">Link to The Ultimate TV Fang-Off: Vote for the Best Vampire</span>
+        </div>
+    </tile-dynamic>
+</a>
+                </li>
+              
+                <li data-qa="rt-news-item">
+                  <a class="news-tile" href="https://editorial.rottentomatoes.com/article/loki-season-2-at-the-half/" data-qa="news-link">
+    <tile-dynamic
+        data-qa="tile"
+        orientation="landscape"
+    >
+        <img
+            alt="<em>Loki</em> Season 2 at the Half: Loki as TVA Agent Muddles Expectations for the Kang–Timely–He Who Remains Future poster image"
+            slot="image"
+            src="https://prd-rteditorial.s3.us-west-2.amazonaws.com/wp-content/uploads/2023/10/20103816/loki_203_600x314.jpg"
+            loading="lazy"
+        />
+        <div slot="caption">
+            <p><em>Loki</em> Season 2 at the Half: Loki as TVA Agent Muddles Expectations for the Kang–Timely–He Who Remains Future</p>
+            <span class="sr-only">Link to <em>Loki</em> Season 2 at the Half: Loki as TVA Agent Muddles Expectations for the Kang–Timely–He Who Remains Future</span>
+        </div>
+    </tile-dynamic>
+</a>
+                </li>
+              
+            </ul>
+            <a
+              class="a--short"
+              data-qa="rt-news-view-all-link"
+              href="https://editorial.rottentomatoes.com/news/"
+              slot="view-all-link"
+            >
+              View All
+            </a>
+          </rt-header-nav-item-dropdown-list>
+        
+      </rt-header-nav-item-dropdown>
+    </rt-header-nav-item>
+
+    <rt-header-nav-item slot="showtimes">
+      <a
+        class="unset"
+        slot="link"
+        href="https://www.fandango.com/movies-in-theaters"
+        target="_blank"
+        rel="noopener"
+        data-qa="masthead:tickets-showtimes-link"
+      >
+        Showtimes
+      </a>
+    </rt-header-nav-item>
+  </rt-header-nav>
+
+</rt-header>
+<section class="trending-bar">
+  
+
+  <ad-unit hidden id="trending_bar_ad" unitdisplay="desktop" unittype="trendinggraphic">
+    <div slot="adInject"></div>
+  </ad-unit>
+  <div id="trending-bar-start" class="trending-list-wrap" data-qa="trending-bar">
+    <ul class="list-inline trending-bar__list" data-curation="rt-nav-trending"
+      data-qa="trending-bar-list">
+      <li class="trending-bar__header">Trending on RT</li>
+      
+      <li><a class="trending-bar__link" href="https://editorial.rottentomatoes.com/article/shop/"  data-qa="trending-bar-item"> Shop Rotten Tomatoes </a></li>
+      
+      <li><a class="trending-bar__link" href="https://editorial.rottentomatoes.com/article/tomatometer-scores/"  data-qa="trending-bar-item"> Latest TM Scores </a></li>
+      
+      <li><a class="trending-bar__link" href="https://editorial.rottentomatoes.com/article/best-moments-from-back-to-the-future/"  data-qa="trending-bar-item"> Back to the Future </a></li>
+      
+      <li><a class="trending-bar__link" href="https://editorial.rottentomatoes.com/guide/best-tv-shows-of-2023/"  data-qa="trending-bar-item"> Best TV </a></li>
+      
+    </ul>
+    <div class="trending-bar__social" data-qa="trending-bar-social-list" style="width: 135px;">
+      <social-media-icons theme="light" size="14"></social-media-icons>
+    </div>
+  </div>
+</section>
+
+
+
+            <main id="main_container" class="container rt-layout__content">
+                <bottom-nav data-qa="bottom-nav" data-DiscoveryGridsManager="bottomNavComponent">
+                    <a slot="template">
+                        <bottom-nav-item></bottom-nav-item>
+                    </a>
+                </bottom-nav>
+                <div id="main-page-content">
+                    
+    
+                    
+
+    <div class="layout reviews-page-container">
+        <aside class="layout__column layout__column--sidebar layout__column--sidebar-left mobile-hidden">
+            <section class="reviews-info-container">
+    <a
+        href="/m/fast_x"
+        data-qa="sidebar-poster-link">
+        <img
+            src="https://resizing.flixster.com/MQwHilOB18wHj3daf6qJceM3yic=/206x305/v2/https://resizing.flixster.com/8ZFc4VKwZN8NGV3ZqhCIFCHekxM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJlNDAyYWUzLWEwZTUtNDVlNy04MDliLTRmZWIzNDMzMzJmYS5qcGc="
+            width="180"
+            height="270"
+            alt="Fast X"
+            title="Fast X"
+            data-qa="sidebar-poster-img" />
+    </a>
+    <div class="info-section">
+        <a
+            href="/m/fast_x"
+            class="sidebar-title"
+            target="_top"
+            data-qa="sidebar-media-link" >
+            Fast X
+        </a>
+
+        
+        <ul data-qa="sidebar-movie-details">
+            <li>
+                PG-13 ,  2h 21m
+            </li>
+            <li>
+                Action,Adventure
+            </li>
+            
+                <li>
+                    Directed By:
+                        
+                            <a href="/celebrity/louis_leterrier">
+                                Louis Leterrier
+                            </a>
+                            
+                        
+                </li>
+            
+            
+                <li>
+                    In Theaters:
+                    May 19, 2023
+                </li>
+            
+            
+            
+                <li>
+                    Streaming:
+                    Jun 9, 2023
+                </li>
+            
+            <li>
+                Universal Studios, Perfect Storm Entertainment, China Film Co., Ltd., Original Film, One Race Films, Roth/Kirschenbaum Films
+            </li>
+        </ul>
+        
+
+
+        
+            <a
+                href="https://fandango.az1.qualtrics.com/jfe/form/SV_3NMwx66TSe9KAfz"
+                class="report-review"
+                target="_blank"
+                rel="noopener"
+                data-qa="flag-critic-review" >
+                Do you think we mischaracterized a critic's review?
+            </a>
+        
+    </div>
+
+    
+        <div class="info-videos">
+            <h2 data-qa="reviews-title"><em>Fast X</em> Videos</h2>
+            <ul>
+                
+                    <li class="info-video-item">
+                        <div class="video-thumbnail">
+                            <a href="/m/fast_x/trailers/2250481219968" class="videoLink" alt="" data-qa="sidebar-video-link">
+                                <img src="https://resizing.flixster.com/W2rWiD4JJkKMAtvoT421g6IZTo8=/270x160/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/947/143/thumb_79BB86EB-95D5-42B0-87C7-DE6EF01947B1.jpg" width="80" height="53" />
+                            </a>
+                        </div>
+                        <div class="video-info" data-qa="sidebar-img-title">
+                            <a class="video-info-title" href="/m/fast_x/trailers/2250481219968">Fast X: Exclusive Featurette - Ludacris and Tyrese Gibson</a>
+                            
+                                <p class="video-info-item">
+                                    1:11
+                                </p>
+                            
+                            
+                                <p class="video-info-item">
+                                    Added: Jul 31, 2023
+                                </p>
+                            
+                        </div>
+                    </li>
+                
+                    <li class="info-video-item">
+                        <div class="video-thumbnail">
+                            <a href="/m/fast_x/trailers/2246651972000" class="videoLink" alt="" data-qa="sidebar-video-link">
+                                <img src="https://resizing.flixster.com/fIpVEA0TPYbrshq-N6mcrnX_LDI=/270x160/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/367/291/thumb_E36C39EA-3DA7-4ED2-8892-546A563B1654.jpg" width="80" height="53" />
+                            </a>
+                        </div>
+                        <div class="video-info" data-qa="sidebar-img-title">
+                            <a class="video-info-title" href="/m/fast_x/trailers/2246651972000">Fast X: Official Clip - Dom Drives Down an Exploding Dam</a>
+                            
+                                <p class="video-info-item">
+                                    4:27
+                                </p>
+                            
+                            
+                                <p class="video-info-item">
+                                    Added: Jul 18, 2023
+                                </p>
+                            
+                        </div>
+                    </li>
+                
+                    <li class="info-video-item">
+                        <div class="video-thumbnail">
+                            <a href="/m/fast_x/trailers/2246654019521" class="videoLink" alt="" data-qa="sidebar-video-link">
+                                <img src="https://resizing.flixster.com/uyGB7cyIDrab-4uaZ5QRb7aKs8M=/270x160/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/369/242/thumb_287BF292-FF6F-4D1B-BEE9-CFF30D70ED70.jpg" width="80" height="53" />
+                            </a>
+                        </div>
+                        <div class="video-info" data-qa="sidebar-img-title">
+                            <a class="video-info-title" href="/m/fast_x/trailers/2246654019521">Fast X: Official Clip - Dom Saves The Vatican</a>
+                            
+                                <p class="video-info-item">
+                                    7:00
+                                </p>
+                            
+                            
+                                <p class="video-info-item">
+                                    Added: Jul 18, 2023
+                                </p>
+                            
+                        </div>
+                    </li>
+                
+            </ul>
+            <a href="/m/fast_x/trailers" data-qa="sidebar-view-all-link">View All Videos (45)</a>
+        </div>
+    
+</section>
+
+
+            <ad-unit hidden unitdisplay="desktop" unittype="topmulti" showadlink>
+                <div slot="adInject"></div>
+            </ad-unit>
+        </aside>
+        <section class="layout__column layout__column--main" data-qa="section:reviews">
+            <div id="reviews" class="js-reviews-container reviews-container" data-qa="reviews-container">
+                <h2 data-qa="reviews-title">Fast X Reviews</h2>
+                
+                
+<reviews-dropdown-manager></reviews-dropdown-manager>
+<button class="review-nav-dropdown-toggle mobile-visible" data-ReviewsDropdownManager="btnDropdown:click" data-qa="discovery-nav-desktop-btn">
+    Verified Audience
+    <rt-icon icon="down-open"></rt-icon>
+</button>
+<dropdown-menu data-ReviewsDropdownManager="menuDropdown" data-qa="reviews-tab-menu" hidden>
+    <a href="#" slot="close"><rt-icon image icon="close"></rt-icon></a>
+    <a href="/m/fast_x/reviews" slot="option" data-qa="all-critics">
+        <dropdown-option>All Critics</dropdown-option>
+    </a>
+    <a href="/m/fast_x/reviews?type=top_critics" slot="option" data-qa="top-critics">
+        <dropdown-option>Top Critics</dropdown-option>
+    </a>
+    
+    <a href="/m/fast_x/reviews?type=user" slot="option" data-qa="all-audience">
+        <dropdown-option>All Audience</dropdown-option>
+    </a>
+    
+    
+    <a href="/m/fast_x/reviews?type=verified_audience" slot="option" data-qa="verified-audience">
+        <dropdown-option>Verified Audience</dropdown-option>
+    </a>
+    
+</dropdown-menu>
+
+<nav class="mobile-hidden" aria-labelledby="tv-season-review-nav-desktop-label">
+    <h3 id="tv-season-review-nav-desktop-label" class="hide">Movie Reviews By Reviewer Type</h3>
+    <ul class="tabs js-tabs-wrap">
+        <li class="tabs__item " data-qa="reviews-tab-desktop">
+            <a class="tabs__link js-tab-link" data-type="all-critics" href="/m/fast_x/reviews" data-qa="all-critics">All Critics</a>
+        </li>
+        <li class="tabs__item " data-qa="reviews-tab-desktop">
+            <a class="tabs__link js-tab-link" data-type="top-critics" href="/m/fast_x/reviews?type=top_critics" data-qa="top-critics">Top Critics</a>
+        </li>
+        
+            <li class="tabs__item " data-qa="reviews-tab-desktop">
+                <a class="tabs__link js-tab-link" data-type="all-audience" href="/m/fast_x/reviews?type=user" data-qa="all-audience">All Audience</a>
+            </li>
+        
+        
+            <li class="tabs__item tabs__item--active" data-qa="reviews-tab-desktop">
+                <a class="tabs__link tabs__link--verified js-tab-link" data-type="verified-audience" href="/m/fast_x/reviews?type=verified_audience" data-qa="verified-audience">
+                    Verified Audience
+                </a>
+            </li>
+        
+        <li class="tabs-underline js-tabs-underline"></li>
+    </ul>
+</nav>
+
+                
+                    
+    <pagination-manager
+        endpoint="/napi/movie/00b20d93-6265-3079-a0da-de975d7ff0b1/reviews/verified_audience"
+        endcursor="eyJyZWFsbV91c2VySWQiOiJGYW5kYW5nb182NTc4QTNCNi1DOTI5LTRFOTQtOTM0NS1EMkE1QkEyQjk1MTgiLCJlbXNJZCI6IjAwYjIwZDkzLTYyNjUtMzA3OS1hMGRhLWRlOTc1ZDdmZjBiMSIsImVtc0lkX2hhc1Jldmlld0lzVmlzaWJsZUlzVmVyaWZpZWQiOiIwMGIyMGQ5My02MjY1LTMwNzktYTBkYS1kZTk3NWQ3ZmYwYjFfVCIsImNyZWF0ZURhdGUiOiIyMDIzLTA3LTAxVDA3OjAwOjIzLjk3N1oifQ=="
+        startcursor=""
+        hasnext="true"
+        hasprev="false"
+        pagecount="20"
+        rendertemplate="_audience-reviews"
+    ></pagination-manager>
+
+    <div class="prev-next-paging__wrapper">
+        <rt-button skeleton="chip" data-PaginationManager="btnPrev:click" class="prev hide" theme="light" data-qa="prev-btn">
+            <rt-icon icon="left-arrow-stem"></rt-icon> Prev
+        </rt-button>
+        <rt-button skeleton="chip" data-PaginationManager="btnNext:click" class="next hide" theme="light" data-qa="next-btn">
+            Next <rt-icon icon="right-arrow-stem"></rt-icon>
+        </rt-button>
+    </div>
+    <div class="review_table" 
+        data-PaginationManager="paginatedDataContainer"
+    >
+        <div class="sr-only" aria-live="polite"></div>
+<div>
+  
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">Angelica</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Aug 28, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        Action packed!! I loved it.
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="95d05fc7-a5d0-42e4-bba8-bbfd9d4a44a7"
+                        data-author-id="9720A6CD-2E93-4C4B-A11F-1A43C53E2324"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">TomE</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__empty"></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Aug 24, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        The only difference between this and Fast 9(The worst movie on earth) is that John Cena gets to have fun and Jason Momoa is eating up the screen. And it&#39;s much better for it!
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="44dcd41b-e299-4fc6-9845-32701b05a700"
+                        data-author-id="45261791-2A9F-460B-8F71-E18FB76BDC7C"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">layla</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__empty"></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Aug 3, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        very good movie very entertaining!
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="2eb9415d-e325-4569-9f57-b60b797eb941"
+                        data-author-id="0903F902-CA13-4439-A93F-85A0F607F786"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">Jaytee S</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Aug 2, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        Ngl I was afraid this would suck and was a little over the Fast &amp; Furious franchise, but after this movie I&#39;m def excited for the next one!
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="8d64aea3-38fb-459a-981e-f326e2f682eb"
+                        data-author-id="fc91573d-1234-446a-bd10-bdec49a26782"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">Rasmufin.TV</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__half "></span><span class="star-display__empty"></span><span class="star-display__empty"></span><span class="star-display__empty"></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Jul 17, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        Man this franchise is a joke - the first two, hell even Tokyo Drift were the only 3 truly about racing and cars. Everything after turned to drugs - grudges - family drama - guns and ridiculous unbelievable stunts that were never apart of the series before and now are the new normal over the years lol. Movies could&#39;ve been so good but people are so use to this hollywood garbage that they think it&#39;s actually &quot;good entertainment.&quot;
+
+This movie is really only worth watching if you already invested a lot into the franchise, if its on T.V. or a very cheap rental lol. 3.5/10
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="fa87681d-3f7e-4b79-9012-0f85702b8dfc"
+                        data-author-id="4dfa8449-9bd6-4186-9994-1ec055138471"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">Omari</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__empty"></span><span class="star-display__empty"></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Jul 13, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        Jason Momoa&#39;s character is the only thing that kept me entertained. I don&#39;t know why I keep coming back to watch these unrealistic stunts I guess I&#39;m trying to see it to the end.
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="73e400b0-6e3d-42af-83c5-3977034ad2ba"
+                        data-author-id="3B6ACC5E-88A7-4531-8E95-CCDD38677B7F"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">Diedra J</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__half "></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Jul 12, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        Jason Mamoa was a welcome refreshing perfect villain.  The action scenes are always what we come for but Jason had us rooting for the Villian at times.
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="4747192a-8a6f-4ac5-8391-0d134691df38"
+                        data-author-id="483A2DD3-0AAE-4A34-AC69-0F11102F1B42"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">FranklinJr</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__empty"></span><span class="star-display__empty"></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Jul 9, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        The ending SUCK!!!!!
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="119ec041-1c3f-4031-9c0d-c09ce5dcc0ab"
+                        data-author-id="c9f3a6bb-bbcd-4ead-937e-ff6a6dd10c16"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">Jeremy P</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Jul 6, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        Its another great car crashing unbelievable movie just like all the rest. It has twists and turns.
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="64d0b34d-189a-42d2-a8b4-6fb94e307eca"
+                        data-author-id="053b1d16-e441-4f56-b15e-9fb202b3d0a1"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">Richard</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Jul 5, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        I have always been a fan of this series
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="553c078b-52f2-46f2-9f5e-3f93e1da3fc1"
+                        data-author-id="23ae69f5-6670-46cb-a789-27f1e5c038ad"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">John M</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__empty"></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Jul 4, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        Great popcorn flick!  Went into it knowing it was Part 1 of a two-parter, so the cliffhanger ending didn&#39;t surprise me.
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="300840e4-c0e2-4947-8a2f-fe389ebd477b"
+                        data-author-id="695d43eb-e546-4258-9cbe-354f9e471a2f"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">Robert C</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__empty"></span><span class="star-display__empty"></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Jul 4, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        great action.  storyline was so-so.  mamoa was the only fun character.  Above all.  no ending.  cliffhanger no ending.  boo!  put part 1 in the title if you aren&#39;t giving me a proper ending.
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="529c40ff-1298-47fb-8e57-a78e1aeccbd1"
+                        data-author-id="D2B84CFD-B26D-4A77-904F-18B25517CF8D"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">Rae</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__half "></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Jul 4, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        Love love loved it! Going back again tomorrow to watch it again with my son.
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="ad9f9513-6732-4beb-8b87-1dd1a11eabab"
+                        data-author-id="e5706ce5-efac-4765-9cc3-bafdb2ef1360"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">Ross</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Jul 4, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        Great action, great suspense,loved the characters. Can’t wait to see the next sequel
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="d2234244-76ea-4a36-b046-ef7a2ee43304"
+                        data-author-id="53E213DE-088D-4617-A056-761CBF8BDDE7"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">Jeffrey</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__half "></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Jul 4, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        Lots of great actors and actresses in the genre of this movie. Lots of action and excitement. Lots of believable action such as a young boy jumping from one car to another while the cars are spinning at high speed. Who could not like this high action packed movie.
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="d1b82835-7af1-4406-98ad-4788b8de6ef6"
+                        data-author-id="64767ad1-1586-489f-82dc-d23932d626ca"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">Ralph G</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__half "></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Jul 3, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        great but has a part 2 to follow..
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="bc2333b8-4ad8-4824-a7eb-f7093e38093c"
+                        data-author-id="06bd1c83-d8b8-43fb-a5c0-ec107d8817bc"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">John</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__empty"></span><span class="star-display__empty"></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Jul 2, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        Villain is a combination of the Joker and Luther from Batman. Tiring character.  Typical fun ride. Unfortunately, a terrible cliff-hanger ending. Calling the movie a Part 1 would have given a heads up instead of a disappointment.
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="e5bd04b3-5789-4565-86c4-afeaad5a695e"
+                        data-author-id="0d8e4499-2e71-4cbd-adc0-c39716502d0e"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">Google</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Jul 2, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        Alot of intense action, Cameo actors unexpected
+
+Didnt care for the ending tho !
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="04364676-7ede-4f5b-a11b-9ee57ee22977"
+                        data-author-id="76dbdc01-a15a-4fe1-99eb-9e2f220f1ef4"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">Patrick F</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Jul 1, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        Fantastic stunts and action. Great lineup of actors. Just what I expected from the Fast franchise.
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="4562e9a7-4367-40a7-86f0-08374f9fabe5"
+                        data-author-id="f3c13a42-340c-425d-a82e-2bad1822c5fb"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+        <div class="audience-review-row" data-qa="review-item">
+            <div class="review-data">
+                
+                    
+                        <span class="audience-review__default-image"></span>
+                    
+                
+                <div class="audience-reviews__name-wrap ">
+                    
+                        
+                            <span class="audience-reviews__name" data-qa="review-name">Pablo G</span>
+                        
+                    
+                    
+                </div>
+            </div>
+            <div class="review-text-container">
+                <div class="audience-review-meta">
+                    
+                        <span class="audience-reviews__score"><span class="star-display" data-qa="star-display"><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__filled "></span><span class="star-display__half "></span><span class="star-display__empty"></span></span></span>
+                    
+                    
+                        <span class="audience-reviews__verified">Verified</span>
+                    
+                    
+                        <span class="audience-reviews__duration" data-qa="review-duration">Jul 1, 2023</span>
+                    
+                </div>
+                <drawer-more status="closed" maxlines="6" skeleton="text">
+                    <p slot="content" class="audience-reviews__review js-review-text" data-qa="review-text">
+                        it&#39;s good, decent watch, the movie moved along pretty quick which was nice. definitely go during a discounted price.
+                    </p>
+                    <button class="button--link" slot="button">Show More</button>
+                </drawer-more>
+                <div class="review-flag-btn__wrapper">
+                    <button class="js-review-flag-btn review-flag-btn review-flag-btn--right"
+                        data-review-id="7602a73f-e437-4b68-955f-40522d79b64c"
+                        data-author-id="6578A3B6-C929-4E94-9345-D2A5BA2B9518"
+                        data-author-realm="Fandango">
+                            Flag this review
+                    </button>
+                </div>
+            </div>
+        </div>
+    
+  
+</div>
+    </div>
+    <div class="prev-next-paging__wrapper">
+        <rt-button skeleton="chip" data-PaginationManager="btnPrev:click" class="prev hide" theme="light" data-qa="prev-btn">
+            <rt-icon icon="left-arrow-stem"></rt-icon> Prev
+        </rt-button>
+        <rt-button skeleton="chip" data-PaginationManager="btnNext:click" class="next hide" theme="light" data-qa="next-btn">
+            Next <rt-icon icon="right-arrow-stem"></rt-icon>
+        </rt-button>
+    </div>
+
+    <review-flag-modal
+        type="verified_audience"
+        mediaType="movie"
+        emsId="00b20d93-6265-3079-a0da-de975d7ff0b1">
+    </review-flag-modal>
+
+
+                
+            
+                
+                    <a
+                      href="https://fandango.az1.qualtrics.com/jfe/form/SV_3NMwx66TSe9KAfz"
+                      class="report-review mobile-visible"
+                      target="_blank"
+                      rel="noopener">
+                        Do you think we mischaracterized a critic's review?
+                    </a>
+                
+            </div>
+        </section>
+    </div>
+
+                </div>
+            </main>
+
+            <ad-unit hidden unitdisplay="desktop" unittype="bottombanner">
+                <div slot="adInject" class="sleaderboard_wrapper"></div>
+            </ad-unit>
+
+            <news-letter-manager></news-letter-manager>
+<footer class="footer container" data-PagePicturesManager="footer">
+    <div class="footer__content-desktop-block" data-qa="footer:section">
+        <div class="footer__content-group">
+            <ul class="footer__links-list">
+                <li class="footer__links-list-item">
+                    <a href="/help_desk" data-qa="footer:link-helpdesk">Help</a>
+                </li>
+                <li class="footer__links-list-item">
+                    <a href="/about" data-qa="footer:link-about">About Rotten Tomatoes</a>
+                </li>
+                <li class="footer__links-list-item">
+                    <a href="/about#whatisthetomatometer" data-qa="footer:link-whats-tmeter">What's the Tomatometer<sup>&reg;</sup>?</a>
+                </li>
+                <li id="footer-feedback" class="footer__links-list-item" data-qa="footer-feedback-desktop">
+                    
+                </li>
+            </ul>
+        </div>
+        <div class="footer__content-group">
+            <ul class="footer__links-list">
+                <li class="footer__links-list-item">
+                    <a href="/critics/criteria" data-qa="footer:link-critic-submission">Critic Submission</a>
+                </li>
+                <li class="footer__links-list-item">
+                    <a href="/help_desk/licensing" data-qa="footer:link-licensing">Licensing</a>
+                </li>
+                <li class="footer__links-list-item">
+                    <a href="https://together.nbcuni.com/advertise/?utm_source=rotten_tomatoes&amp;utm_medium=referral&amp;utm_campaign=property_ad_pages&amp;utm_content=footer" target="_blank" rel="noopener" data-qa="footer:link-ads">Advertise With Us</a>
+                </li>
+                <li class="footer__links-list-item">
+                    <a href="//www.fandango.com/careers" target="_blank" rel="noopener" data-qa="footer:link-careers">Careers</a>
+                </li>
+            </ul>
+        </div>
+        <div class="footer__content-group footer__newsletter-block">
+            <p class="h3 footer__content-group-title"><span class="rt-icon rt-icon__mail footer__newsletter-icon"></span>Join The Newsletter</p>
+            <p class="footer__newsletter-copy">Get the freshest reviews, news, and more delivered right to your inbox!</p>
+            <rt-button data-NewsLetterManager="btnNewsLetter:click" data-qa="footer-newsletter-desktop">
+                Join The Newsletter
+            </rt-button>
+            <a data-NewsLetterManager="linkNewsLetter" class= "button footer__newsletter-btn hide" target="_blank" rel="noopener">
+                Join The Newsletter
+            </a>
+        </div>
+        <div class="footer__content-group footer__social-block" data-qa="footer:social">
+            <p class="h3 footer__content-group-title">Follow Us</p>
+            <social-media-icons theme="light" size="20"></social-media-icons>
+        </div>
+    </div>
+    <div class="footer__content-mobile-block" data-qa="mfooter:section">
+        <div class="footer__content-group">
+            <p class="footer__copyright-legal" data-qa="mfooter:copyright">Copyright &copy; Fandango. All rights reserved.</p>
+            <rt-button data-NewsLetterManager="btnNewsLetter:click" data-qa="footer-newsletter-mobile">Join The Newsletter</rt-button>
+            <a
+                data-NewsLetterManager="linkNewsLetter"
+                class= "button footer__newsletter-btn hide"
+                target="_blank"
+                rel="noopener"
+            >Join The Newsletter</a>
+
+            <ul class="footer__links-list list-inline">
+                <li class="footer__links-list-item">
+                    <a href="//www.fandango.com/policies/privacy-policy" target="_blank" rel="noopener" data-qa="mfooter:link-privacy-policy">
+                        Privacy Policy
+                    </a>
+                </li>
+                <li class="footer__links-list-item">
+                    <a href="//www.fandango.com/policies/terms-and-policies" target="_blank" rel="noopener" data-qa="mfooter:link-terms-policies">Terms and Policies</a>
+                </li>
+                <li class="footer__links-list-item">
+                    <img src="https://images.fandango.com/cms/assets/266533e0-7afb-11ed-83f2-4f600722b564--privacyoptions.svg" class="footer__ccpa-icon" loading="lazy" alt="CCPA icon" />
+                    <!-- OneTrust Cookies Settings button start -->
+                    <a href="javascript:void(0)" id="ot-sdk-btn" class="ot-sdk-show-settings mobile" data-qa="footer-cookie-settings-mobile">Cookie Settings</a>
+                    <!-- OneTrust Cookies Settings button end -->
+                </li>
+                <li class="footer__links-list-item">
+                    <a href="//www.fandango.com/californianotice" target="_blank" rel="noopener" data-qa="mfooter:link-california-notice">California Notice</a>
+                </li>
+                <li class="footer__links-list-item">
+                    <a href="//www.fandango.com/policies/cookies-and-tracking#cookie_management" target="_blank" rel="noopener" data-qa="mfooter:link-adChoices">Ad Choices</a>
+                </li>
+                <li id="footer-feedback-mobile" class="footer__links-list-item" data-qa="footer-feedback-mobile">
+                    
+                </li>
+                <li class="footer__links-list-item">
+                    <a href="/faq#accessibility" data-qa="mfooter:link-accessibility">Accessibility</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="footer__copyright">
+        <ul class="footer__links-list list-inline list-inline--separator" data-qa="footer:links-list-privacy">
+            <li class="footer__links-list-item version" data-qa="footer:version">
+                <span>V3.1</span>
+            </li>
+            <li class="footer__links-list-item">
+                <a href="//www.fandango.com/policies/privacy-policy" target="_blank" rel="noopener" data-qa="footer:link-privacy-policy">
+                    Privacy Policy
+                </a>
+            </li>
+            <li class="footer__links-list-item">
+                <a href="//www.fandango.com/policies/terms-and-policies" target="_blank" rel="noopener" data-qa="footer:link-terms-policies">Terms and Policies</a>
+            </li>
+            <li class="footer__links-list-item">
+                <img src="https://images.fandango.com/cms/assets/266533e0-7afb-11ed-83f2-4f600722b564--privacyoptions.svg" class="footer__ccpa-icon" loading="lazy" alt="CCPA icon" />
+                <!-- OneTrust Cookies Settings button start -->
+                <a href="javascript:void(0)" id="ot-sdk-btn" class="ot-sdk-show-settings" data-qa="footer-cookie-settings-desktop">Cookie Settings</a>
+                <!-- OneTrust Cookies Settings button end -->
+            </li>
+            <li class="footer__links-list-item">
+                <a href="//www.fandango.com/californianotice" target="_blank" rel="noopener" data-qa="footer:link-california-notice">California Notice</a>
+            </li>
+            <li class="footer__links-list-item">
+                <a href="//www.fandango.com/policies/cookies-and-tracking#cookie_management" target="_blank" rel="noopener" data-qa="footer:link-adChoices">Ad Choices</a>
+            </li>
+            <li class="footer__links-list-item">
+                <a href="/faq#accessibility" data-qa="footer:link-accessibility">Accessibility</a>
+            </li>
+        </ul>
+        <span class="footer__copyright-legal" data-qa="footer:copyright">Copyright &copy; Fandango. All rights reserved.</span>
+    </div>
+</footer>
+
+        </div>
+
+        
+    
+        <script type="text/javascript">
+(function (root) {
+/* -- Data -- */
+root.RottenTomatoes || (root.RottenTomatoes = {});
+root.RottenTomatoes.context = {"_routes":{"baseCanonicalUrl":{"path":"https:\u002F\u002Fwww.rottentomatoes.com","tokens":[{"literal":"https:\u002F\u002Fwww.rottentomatoes.com"}]},"webCriticSourceReviewsNapi":{"path":"\u002Fnapi\u002Fcritics\u002Fsource\u002F:publicationId\u002F:type(movies|tv)","tokens":[{"literal":"\u002Fnapi\u002Fcritics\u002Fsource\u002F"},{"key":"publicationId"},{"literal":"\u002F"},{"key":"type"}]},"webMovieReviewsNapi":{"path":"\u002Fnapi\u002Fmovie\u002F:emsId\u002Freviews\u002F:type(user|verified_audience|all|top_critics)","tokens":[{"literal":"\u002Fnapi\u002Fmovie\u002F"},{"key":"emsId"},{"literal":"\u002Freviews\u002F"},{"key":"type"}]},"commonTrackingFreewheelPixelSyncNapi":{"path":"\u002Fnapi\u002Ftracking\u002Ffreewheel\u002Fpixelsync","tokens":[{"literal":"\u002Fnapi\u002Ftracking\u002Ffreewheel\u002Fpixelsync"}]},"webEpisodeReviewsNapi":{"path":"\u002Fnapi\u002Fepisode\u002F:emsId\u002Freviews\u002F:type(all|top_critics)","tokens":[{"literal":"\u002Fnapi\u002Fepisode\u002F"},{"key":"emsId"},{"literal":"\u002Freviews\u002F"},{"key":"type"}]},"webSeasonReviewsNapi":{"path":"\u002Fnapi\u002Fseason\u002F:emsId\u002Freviews\u002F:type(user|all|top_critics)","tokens":[{"literal":"\u002Fnapi\u002Fseason\u002F"},{"key":"emsId"},{"literal":"\u002Freviews\u002F"},{"key":"type"}]},"webTvSeasonGetEpisodesNapi":{"path":"\u002Fnapi\u002Ftv\u002F:vanity\u002F:tvSeason\u002Fepisodes","tokens":[{"literal":"\u002Fnapi\u002Ftv\u002F"},{"key":"vanity"},{"literal":"\u002F"},{"key":"tvSeason"},{"literal":"\u002Fepisodes"}]},"commonUserWTSCreateNapi":{"path":"\u002Fnapi\u002Fuser\u002Fwts","tokens":[{"literal":"\u002Fnapi\u002Fuser\u002Fwts"}]},"commonUserWTSDeleteNapi":{"path":"\u002Fnapi\u002Fuser\u002Fwts\u002Fdelete","tokens":[{"literal":"\u002Fnapi\u002Fuser\u002Fwts\u002Fdelete"}]},"commonUserRatingCreateNapi":{"path":"\u002Fnapi\u002Fuser\u002Frating","tokens":[{"literal":"\u002Fnapi\u002Fuser\u002Frating"}]},"commonUserGetWTSNapi":{"path":"\u002Fnapi\u002Fuser\u002Fwts","tokens":[{"literal":"\u002Fnapi\u002Fuser\u002Fwts"}]},"commonUserGetRatingNapi":{"path":"\u002Fnapi\u002Fuser\u002Frating","tokens":[{"literal":"\u002Fnapi\u002Fuser\u002Frating"}]},"resetClient":{"path":"\u002Freset-client","tokens":[{"literal":"\u002Freset-client"}]},"userAccount":{"path":"\u002Fuser\u002Faccount","tokens":[{"literal":"\u002Fuser\u002Faccount"}]},"webCritic":{"path":"\u002Fcritics\u002F:vanity\u002F:type(movies|tv)","tokens":[{"literal":"\u002Fcritics\u002F"},{"key":"vanity"},{"literal":"\u002F"},{"key":"type"}]},"webCriticLanding":{"path":"\u002Fcritics\u002F:vanity","tokens":[{"literal":"\u002Fcritics\u002F"},{"key":"vanity"}]},"webSearchResults":{"path":"\u002Fsearch\u002F","tokens":[{"literal":"\u002Fsearch\u002F"}]},"webCriticSource":{"path":"\u002Fcritics\u002Fsource\u002F:publicationId","tokens":[{"literal":"\u002Fcritics\u002Fsource\u002F"},{"key":"publicationId"}]}}};
+root.RottenTomatoes.context || (root.RottenTomatoes.context = {});
+root.RottenTomatoes.context.layout = {"header":{"editorial":{"guides":{"posts":[{"ID":167321,"author":{"ID":12,"username":"alex.vo","name":"Alex Vo","first_name":"Alex","last_name":"Vo","nickname":"alex.vo","slug":"alex-vo","URL":"","avatar":"https:\u002F\u002Fsecure.gravatar.com\u002Favatar\u002F818ade2039d2a711e0cd70ae46f14952?s=96","description":"","registered":"2015-05-12T20:00:23+00:00","meta":{"links":{"self":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-json\u002Fusers\u002F12","archives":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-json\u002Fusers\u002F12\u002Fposts"}}},"featured_image":{"source":"https:\u002F\u002Fprd-rteditorial.s3.us-west-2.amazonaws.com\u002Fwp-content\u002Fuploads\u002F2020\u002F11\u002F17123611\u002F600MartinScorsese.jpg"},"link":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fguide\u002Fall-martin-scorsese-movies-ranked-by-tomatometer\u002F","status":"publish","title":"All Martin Scorsese Movies Ranked by Tomatometer","type":"guide"},{"ID":234085,"author":{"ID":12,"username":"alex.vo","name":"Alex Vo","first_name":"Alex","last_name":"Vo","nickname":"alex.vo","slug":"alex-vo","URL":"","avatar":"https:\u002F\u002Fsecure.gravatar.com\u002Favatar\u002F818ade2039d2a711e0cd70ae46f14952?s=96","description":"","registered":"2015-05-12T20:00:23+00:00","meta":{"links":{"self":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-json\u002Fusers\u002F12","archives":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-json\u002Fusers\u002F12\u002Fposts"}}},"featured_image":{"source":"https:\u002F\u002Fprd-rteditorial.s3.us-west-2.amazonaws.com\u002Fwp-content\u002Fuploads\u002F2023\u002F10\u002F19094259\u002F600Akira.jpg"},"link":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fguide\u002Fbest-anime-movies\u002F","status":"publish","title":"100 Best Anime Movies of All Time","type":"guide"}],"title":"Guides","url":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fcountdown\u002F"},"hubs":{"posts":[{"ID":237626,"author":{"ID":12,"username":"alex.vo","name":"Alex Vo","first_name":"Alex","last_name":"Vo","nickname":"alex.vo","slug":"alex-vo","URL":"","avatar":"https:\u002F\u002Fsecure.gravatar.com\u002Favatar\u002F818ade2039d2a711e0cd70ae46f14952?s=96","description":"","registered":"2015-05-12T20:00:23+00:00","meta":{"links":{"self":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-json\u002Fusers\u002F12","archives":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-json\u002Fusers\u002F12\u002Fposts"}}},"featured_image":{"source":"https:\u002F\u002Fprd-rteditorial.s3.us-west-2.amazonaws.com\u002Fwp-content\u002Fuploads\u002F2023\u002F05\u002F04130548\u002FRT_WTW_Generic_2023_Thumbnail_600x314_021623.jpg"},"link":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Frt-hub\u002Fwhat-to-watch\u002F","status":"publish","title":"What to Watch: In Theaters and On Streaming","type":"rt-hub"},{"ID":206375,"author":{"ID":12,"username":"alex.vo","name":"Alex Vo","first_name":"Alex","last_name":"Vo","nickname":"alex.vo","slug":"alex-vo","URL":"","avatar":"https:\u002F\u002Fsecure.gravatar.com\u002Favatar\u002F818ade2039d2a711e0cd70ae46f14952?s=96","description":"","registered":"2015-05-12T20:00:23+00:00","meta":{"links":{"self":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-json\u002Fusers\u002F12","archives":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwp-json\u002Fusers\u002F12\u002Fposts"}}},"featured_image":{"source":"https:\u002F\u002Fprd-rteditorial.s3.us-west-2.amazonaws.com\u002Fwp-content\u002Fuploads\u002F2022\u002F09\u002F07181530\u002FRT_HH2023_Hub_600x314_090723.jpg"},"link":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Frt-hub\u002Fhispanic-heritage\u002F","status":"publish","title":"Celebrating Hispanic Heritage","type":"rt-hub"}],"title":"Hubs","url":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Frt-hubs\u002F"},"news":{"posts":[{"ID":243809,"author":789,"featured_image":{"source":"https:\u002F\u002Fprd-rteditorial.s3.us-west-2.amazonaws.com\u002Fwp-content\u002Fuploads\u002F2023\u002F10\u002F20122458\u002FUltimateTVFang-Off_Rd4-550x310-1.jpg"},"link":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Farticle\u002Ffang-off-tv-vampire-bracket\u002F","promo_order":"","status":"publish","title":"The Ultimate TV Fang-Off: Vote for the Best Vampire","type":"article"},{"ID":244304,"author":800,"featured_image":{"source":"https:\u002F\u002Fprd-rteditorial.s3.us-west-2.amazonaws.com\u002Fwp-content\u002Fuploads\u002F2023\u002F10\u002F20103816\u002Floki_203_600x314.jpg"},"link":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Farticle\u002Floki-season-2-at-the-half\u002F","promo_order":"","status":"publish","title":"\u003Cem\u003ELoki\u003C\u002Fem\u003E Season 2 at the Half: Loki as TVA Agent Muddles Expectations for the Kang–Timely–He Who Remains Future","type":"article"}],"title":"RT News","url":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fnews\u002F"}},"trendingTarsSlug":"rt-nav-trending","trending":[{"header":"Shop Rotten Tomatoes","url":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Farticle\u002Fshop\u002F"},{"header":"Latest TM Scores","url":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Farticle\u002Ftomatometer-scores\u002F"},{"header":"Back to the Future","url":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Farticle\u002Fbest-moments-from-back-to-the-future\u002F"},{"header":"Best TV","url":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fguide\u002Fbest-tv-shows-of-2023\u002F"}],"certifiedMedia":{"certifiedFreshTvSeason":{"header":null,"media":{"url":"\u002Ftv\u002Flessons_in_chemistry\u002Fs01","name":"Lessons in Chemistry: Season 1","score":81,"posterImg":"https:\u002F\u002Fresizing.flixster.com\u002FnDUYxLMa9LY-5zEnoaiKBVo3SUM=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F3Kg48UQn-l78t_T39xwEQjbGZmc=\u002Ffit-in\u002F180x240\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F2aw5enGVdoHL9qD2dxPBtZuTrAU=\u002Fems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vMjE1NjUzMjEtZjNiMy00Nzc4LWJhM2MtMDNkMWJmZjI4NGNjLnBuZw=="},"tarsSlug":"rt-nav-list-cf-picks"},"certifiedFreshMovieInTheater":{"header":null,"media":{"url":"\u002Fm\u002Fkillers_of_the_flower_moon","name":"Killers of the Flower Moon","score":92,"posterImg":"https:\u002F\u002Fresizing.flixster.com\u002FPYmozwgDtJeF1M3gdwEdW3M9_kg=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FXHPHiHfJoxMe7zOs-4N9S6IjVx0=\u002Ffit-in\u002F180x240\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FGGQKtXozu58SHWKH0Cz-5jQ9U38=\u002Fems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZhOWE1N2ZkLTY4MzgtNDA3Yi05MDEwLWQzN2QwMTFkZDdmNS5qcGc="}},"certifiedFreshMovieInTheater4":{"header":null,"media":{"url":"\u002Fm\u002Fthe_killer_2023","name":"The Killer","score":82,"posterImg":"https:\u002F\u002Fresizing.flixster.com\u002FzytoR7KnoXOLqzH-7Iu5dC_rXx8=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FIeY_hwUIozl0TboxoIjXVdBox5g=\u002Ffit-in\u002F180x240\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FUx0YYpq25r4CNYj-TM2YhlcTYU8=\u002Fems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I2Y2U1ZjNkLWQwNzEtNDFiNS1iZmYzLWQ5NWFmM2Y1OGMyNS5qcGc="}},"certifiedFreshMovieAtHome":{"header":null,"media":{"url":"\u002Fm\u002Fnyad","name":"Nyad","score":86,"posterImg":"https:\u002F\u002Fresizing.flixster.com\u002F47ip5tWUcC1IcAf8WLdT_sbC56U=\u002F206x305\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002F_W7stQpJJS9tN3JE0LPzTX_cssE=\u002Ffit-in\u002F180x240\u002Fv2\u002Fhttps:\u002F\u002Fresizing.flixster.com\u002FUSyHLImaPpxv-2fWRqj5jBpE2xw=\u002Fems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM4ZDVlYWU4LWM1OWQtNDFkYy05MWNjLTlmNjE3NjkyNmM2Zi5qcGc="}},"tarsSlug":"rt-nav-list-cf-picks"},"tvLists":{"newTvTonight":{"tarsSlug":"rt-hp-text-list-new-tv-this-week","title":"New TV Tonight","shows":[{"title":"The American Buffalo: Season 1","tomatometer":{"tomatometer":100,"state":"fresh","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fthe_american_buffalo\u002Fs01"},{"title":"Scavengers Reign: Season 1","tomatometer":{"tomatometer":100,"state":"fresh","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fscavengers_reign\u002Fs01"},{"title":"Wolf Like Me: Season 2","tomatometer":{"tomatometer":100,"state":"fresh","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fwolf_like_me\u002Fs02"},{"title":"Upload: Season 3","tomatometer":{"tomatometer":90,"state":"fresh","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fupload\u002Fs03"},{"title":"Everyone Else Burns: Season 1","tomatometer":{"tomatometer":83,"state":"fresh","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Feveryone_else_burns\u002Fs01"},{"title":"Rick and Morty: Season 7","tomatometer":{"tomatometer":73,"state":"fresh","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Frick_and_morty\u002Fs07"},{"title":"Neon: Season 1","tomatometer":{"tomatometer":88,"state":"fresh","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fneon\u002Fs01"},{"title":"Bosch: Legacy: Season 2","tomatometer":{"tomatometer":100,"state":"fresh","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fbosch_legacy\u002Fs02"},{"title":"Billy the Kid: Season 2","tomatometer":{"tomatometer":null,"state":"","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fbilly_the_kid\u002Fs02"},{"title":"Living for the Dead: Season 1","tomatometer":{"tomatometer":null,"state":"","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fliving_for_the_dead\u002Fs01"},{"title":"Captain Laserhawk: A Blood Dragon Remix: Season 1","tomatometer":{"tomatometer":null,"state":"","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fcaptain_laserhawk_a_blood_dragon_remix\u002Fs01"}]},"mostPopularTvOnRt":{"tarsSlug":"rt-hp-text-list-most-popular-tv-on-rt","title":"Most Popular TV on RT","shows":[{"title":"Sex Education: Season 4","tomatometer":{"tomatometer":91,"state":"certified_fresh","certifiedFresh":true},"tvPageUrl":"\u002Ftv\u002Fsex_education\u002Fs04"},{"title":"The Fall of the House of Usher: Season 1","tomatometer":{"tomatometer":90,"state":"certified_fresh","certifiedFresh":true},"tvPageUrl":"\u002Ftv\u002Fthe_fall_of_the_house_of_usher\u002Fs01"},{"title":"Bodies: Season 1","tomatometer":{"tomatometer":79,"state":"fresh","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fbodies_2023\u002Fs01"},{"title":"Lessons in Chemistry: Season 1","tomatometer":{"tomatometer":81,"state":"certified_fresh","certifiedFresh":true},"tvPageUrl":"\u002Ftv\u002Flessons_in_chemistry\u002Fs01"},{"title":"Goosebumps: Season 1","tomatometer":{"tomatometer":77,"state":"certified_fresh","certifiedFresh":true},"tvPageUrl":"\u002Ftv\u002Fgoosebumps_2023\u002Fs01"},{"title":"Loki: Season 2","tomatometer":{"tomatometer":87,"state":"certified_fresh","certifiedFresh":true},"tvPageUrl":"\u002Ftv\u002Floki\u002Fs02"},{"title":"Gen V: Season 1","tomatometer":{"tomatometer":97,"state":"certified_fresh","certifiedFresh":true},"tvPageUrl":"\u002Ftv\u002Fgen_v\u002Fs01"},{"title":"Our Flag Means Death: Season 2","tomatometer":{"tomatometer":94,"state":"certified_fresh","certifiedFresh":true},"tvPageUrl":"\u002Ftv\u002Four_flag_means_death\u002Fs02"},{"title":"Wolf Like Me: Season 2","tomatometer":{"tomatometer":100,"state":"fresh","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Fwolf_like_me\u002Fs02"},{"title":"Rick and Morty: Season 7","tomatometer":{"tomatometer":73,"state":"fresh","certifiedFresh":false},"tvPageUrl":"\u002Ftv\u002Frick_and_morty\u002Fs07"}]}},"legacyItems":{"tarsSlug":"rt-nav-list-tv-episodic-reviews","tv":{"mediaLists":[{},{},{},{"title":"Episodic Reviews","shows":[{"link":"\u002Ftv\u002Fyellowjackets\u002Fs02","showTitle":"Yellowjackets: Season 2"},{"link":"\u002Ftv\u002Fsuccession\u002Fs04","showTitle":"Succession: Season 4"},{"link":"\u002Ftv\u002Fbeef\u002Fs01","showTitle":"Beef: Season 1"},{"link":"\u002Ftv\u002Fthe_mandalorian\u002Fs03","showTitle":"The Mandalorian: Season 3"},{"link":"\u002Ftv\u002Frabbit_hole\u002Fs01","showTitle":"Rabbit Hole: Season 1"}]}]}}},"links":{"moviesInTheaters":{"certifiedFresh":"\u002Fbrowse\u002Fmovies_in_theaters\u002Fcritics:certified_fresh~sort:popular","comingSoon":"\u002Fbrowse\u002Fmovies_coming_soon\u002F","openingThisWeek":"\u002Fbrowse\u002Fmovies_in_theaters\u002Fsort:newest","title":"\u002Fbrowse\u002Fmovies_in_theaters","topBoxOffice":"\u002Fbrowse\u002Fmovies_in_theaters"},"onDvdAndStreaming":{"all":"\u002Fbrowse\u002Fmovies_at_home\u002F","certifiedFresh":"\u002Fbrowse\u002Fmovies_at_home\u002Fcritics:certified_fresh","title":"\u002Fbrowse\u002Fmovies_at_home\u002F","top":"\u002Fbrowse\u002Fmovies_at_home\u002Fsort:popular"},"moreMovies":{"topMovies":"\u002Fbrowse\u002Fmovies_at_home\u002Fsort:popular","trailers":"\u002Ftrailers"},"tvTonight":"\u002Fbrowse\u002Ftv_series_browse\u002Fsort:newest","tvPopular":"\u002Fbrowse\u002Ftv_series_browse\u002Fsort:popular","moreTv":{"topTv":"\u002Fbrowse\u002Ftv_series_browse\u002Fsort:popular","certifiedFresh":"\u002Fbrowse\u002Ftv_series_browse\u002Fcritics:fresh"},"editorial":{"allTimeLists":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fall-time-lists\u002F","bingeGuide":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fbinge-guide\u002F","comicsOnTv":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fcomics-on-tv\u002F","countdown":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fcountdown\u002F","fiveFavoriteFilms":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Ffive-favorite-films\u002F","videoInterviews":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fvideo-interviews\u002F","weekendBoxOffice":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fweekend-box-office\u002F","weeklyKetchup":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fweekly-ketchup\u002F","whatToWatch":"https:\u002F\u002Feditorial.rottentomatoes.com\u002Fwhat-to-watch\u002F"}}};
+root.BK = {"PageName":"http:\u002F\u002Fwww.rottentomatoes.com\u002Fm\u002Ffast_x\u002Freviews?type=verified_audience","SiteID":37528,"SiteSection":""};
+root.RottenTomatoes.thirdParty = {"chartBeat":{"auth":"64558","domain":"rottentomatoes.com"},"mpx":{"accountPid":"NGweTC","playerPid":"y__7B0iQTi4P","playerPidPDK6":"pdk6_y__7B0iQTi4P","accountId":"2474312077"},"algoliaSearch":{"aId":"79FRDP12PN","sId":"175588f6e5f8319b27702e4cc4013561"},"cognito":{"upId":"us-west-2_4L0ZX4b1U","clientId":"7pu48v8i2n25t4vhes0edck31c"}};
+root.RottenTomatoes.serviceWorker = {"isServiceWokerOn":true};
+root.__RT__ || (root.__RT__ = {});
+root.__RT__.featureFlags = {"adsCarouselHP":true,"adsCarouselHPSlug":"rt-sponsored-carousel-list-disney-hp","adsCarouselOP":true,"adsCarouselOPSlug":"rt-sponsored-carousel-list-disney-op","adsHub":false,"adsMockDLP":false,"adsScorecardCta":false,"adsVideoSpotlightHP":false,"authVerboseLogs":false,"cssRefactor":true,"franchisePicturesOptimized":false,"layoutsUserProfilePage":false,"legacyBridge":true,"logoRT25":true,"newEmailPref":false,"redesignGlobalStyles":false,"redesignTvEpisode":false,"useUpdatedOneTrust":false};
+root.RottenTomatoes.context.adsMockDLP = false;
+root.RottenTomatoes.context.req = {"params":{"vanity":"fast_x"},"queries":{"type":"verified_audience"},"route":{},"url":"\u002Fm\u002Ffast_x\u002Freviews?type=verified_audience","secure":false,"buildVersion":undefined};
+root.RottenTomatoes.context.config = {};
+root.RottenTomatoes.context.review = {"mediaType":"movie","title":"Fast X","emsId":"00b20d93-6265-3079-a0da-de975d7ff0b1","type":"verified_audience","sort":undefined,"reviewsCount":0,"pageInfo":undefined,"reviewerDefaultImg":"https:\u002F\u002Fimages.fandango.com\u002Fcms\u002Fassets\u002F5b6ff500-1663-11ec-ae31-05a670d2d590--rtactordefault.png","reviewerDefaultImgWidth":"100"};
+root.RottenTomatoes.context.useCursorPagination = true;
+root.RottenTomatoes.context.verifiedTooltip = undefined;
+root.RottenTomatoes.dtmData = {"webVersion":"node","rtVersion":3.1,"loggedInStatus":"","customerId":"","pageName":"rt | movies | reviews | Fast X","titleType":"Movie","titleId":"00b20d93-6265-3079-a0da-de975d7ff0b1","titleName":"Fast X","titleGenre":"Action|Adventure","lifeCycleWindow":""};
+}(this));
+</script>
+
+        <script src="/assets/pizza-pie/javascripts/bundles/roma/vendors.37d2b700cb6.js"></script>
+
+        <script src="/assets/pizza-pie/javascripts/bundles/roma/default.4c47b711fb7.js"></script>
+
+            
+            <script src="https://cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
+
+            <script src="/assets/pizza-pie/javascripts/bundles/roma/search-algolia.df57657fd01.js"></script>
+            
+        
+    <script src="/assets/pizza-pie/javascripts/templates/roma/reviews.cb953d0f448.js"></script>
+
+    <script src="/assets/pizza-pie/javascripts/bundles/roma/reviews.4820ba29f48.js"></script>
+
+
+        
+            
+            <script>
+                if (window.mps && typeof window.mps.writeFooter === 'function') {
+                    window.mps.writeFooter();
+                }
+            </script>
+            
+        
+        
+        
+            
+            <script>
+                window._satellite && _satellite.pageBottom();
+            </script>
+            
+        
+
+        
+    </body>
+</html>
